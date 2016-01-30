@@ -1,3 +1,7 @@
+! Title: Macedonian adBlock Filters
+! Expires: 1 days
+! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
+
 ! Breaks maxim.mk if enabled
 !||a.press24.mk^
 
