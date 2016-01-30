@@ -953,3 +953,34 @@ maxim.mk###block-views-kgn_advertisment-block_5 > .content > .view-dom-id-7d0384
 
 ! http://maxim.mk
 maxim.mk###block-views-kgn_advertisment-block_5
+
+! http://tirekovmirece.com/
+tirekovmirece.com###ads_region3
+
+! http://tirekovmirece.com/
+tirekovmirece.com##.container > .row > .col-md-8.col-xs-12 > .main.row > .col-xs-12:nth-of-type(1)
+
+! http://lisica.mk/
+lisica.mk###banner
+
+! http://lisica.mk/
+||lisica.mk/images/banners/
+
+! http://lisica.mk/
+lisica.mk###sp-right > .clearfix.sp-inner > .module_text:nth-of-type(7) > .clearfix.mod-wrapper > .clearfix.mod-content > .clearfix.mod-inner > .bannergroup_text > .banneritem
+
+! http://lisica.mk/
+lisica.mk###sp-right > .clearfix.sp-inner
+
+! http://lisica.mk/
+lisica.mk###sp-right1 > .module_text:nth-of-type(5) > .clearfix.mod-wrapper > .header
+
+! http://lisica.mk/
+lisica.mk###sp-right1 > .module_text:nth-of-type(3) > .clearfix.mod-wrapper > .header
+
+! http://duma.mk/
+duma.mk###rightcol > .moduletable:nth-of-type(4)
+
+! http://duma.mk/
+||duma.mk/images/stories/baneri/
+
