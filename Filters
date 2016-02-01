@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 days
-! Last update: 30 January 2016
+! Last update: 1 February 2016
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -8,6 +8,15 @@
 
 ! Generic ad tracking
 ||keepaneyemk.adocean.pl^
+
+! Generic ad tracking
+||relay-mk.ads.httpool.com^
+
+! Generic ad tracking
+||keepaneyeadmk.hit.gemius.pl^
+
+! Generic ads
+##.adsbygoogle
 
 ! http://www.time.mk
 www.time.mk###ads_pane
@@ -38,6 +47,18 @@ forum.kajgana.com###content > .pageWidth > .pageContent > aside > .sidebar > ins
 
 ! http://forum.kajgana.com
 ||ads.kajgana.mk/*
+
+! ereklama.mk
+||ads.ereklama.mk^
+
+! Generic ad tracking
+||www.mktrack.com^
+
+! popularno.mk
+||ads.popularno.mk^
+
+! Generic ad tracking
+||ads.mpm.com.mk^
 
 ! http://novatv.mk
 ||novatv.mk/banners/*
@@ -224,6 +245,9 @@ www.femina.mk###floater > a[href^="http://ads.ereklama.mk/www/delivery/ck.php"]
 
 ! http://www.femina.mk
 ||www.femina.mk/images/banners/763/
+
+! http://puls24.mk
+||ads.puls24.mk^
 
 ! http://puls24.mk
 ||puls24.mk/2014/Puls24/baneri/
