@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 days
-! Last update: 1 February 2016
+! Last update: 3 February 2016
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -17,6 +17,9 @@
 
 ! Generic ads
 ##.adsbygoogle
+
+! http://www.time.mk/m
+||www.time.mk/ads/
 
 ! http://www.time.mk
 www.time.mk###ads_pane
