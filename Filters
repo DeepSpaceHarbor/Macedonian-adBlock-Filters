@@ -1011,3 +1011,113 @@ duma.mk###rightcol > .moduletable:nth-of-type(4)
 ! http://duma.mk/
 ||duma.mk/images/stories/baneri/
 
+! Generic ads
+||ads.shorte.st/
+
+! http://infomax.mk/
+infomax.mk##.kopa-page-header > .header-top-2 > .clearfix.wrapper > .pull-right.top-banner
+
+! http://infomax.mk/
+infomax.mk###text-21
+
+! http://infomax.mk/
+infomax.mk###text-23
+
+! http://telefoni.mk/
+||ads.telefoni.mk/
+
+! http://www.koli.com.mk/
+||koli.com.mk/baneri_html5/
+
+! http://www.koli.com.mk/
+||www.koli.com.mk/baneri/
+
+! http://www.koli.com.mk/
+www.koli.com.mk###form1 > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(5) > td:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(3) > td
+
+! http://www.koli.com.mk/
+www.koli.com.mk###form1 > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(5) > td:nth-of-type(2) > table:nth-of-type(1) > tbody > .txt_11_siv > .pading_novi_naslovna
+
+! http://www.mobile24.mk/
+||www.mobile24.mk/ads/
+
+! http://www.mobile24.mk/
+www.mobile24.mk###main-wrapper > .content:nth-of-type(4)
+
+! http://www.mobile24.mk/
+www.mobile24.mk###main-wrapper > .content:nth-of-type(3)
+
+! http://vremeto.mk/
+||www.mobile24.mk/iframe-ads.php
+
+! http://www.mobile24.mk/
+||vremeto.mk/widget.php
+
+! http://www.avtobanda.com.mk/
+||www.avtobanda.com.mk/images/flash/
+
+! http://www.carclub.mk/
+www.carclub.mk###header-banner
+
+! http://www.carclub.mk/
+||www.carclub.mk/m/pb/randomizer.php
+
+! http://www.carclub.mk/
+||www.carclub.mk/flash/
+
+! http://www.carclub.mk/
+www.carclub.mk###main > div:nth-of-type(1) > iframe
+
+! http://www.carclub.mk/
+www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://malikovski.com"]
+
+! http://www.carclub.mk/
+www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.sportinn.mk"]
+
+! http://www.carclub.mk/
+www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.lagermax.mk"]
+
+! http://www.carclub.mk/
+www.carclub.mk###sidebar > .widget:nth-of-type(6) > .textwidget > a[href="http://www.evolutive.mk"]
+
+! http://avtoplus.mk/
+||avtoplus.mk/images/banners/
+
+! http://avtoplus.mk/
+||avtoplus.mk/html_banners/
+
+! http://avtoplus.mk/
+avtoplus.mk###body > .content-container > .content-right > .banner-group:nth-of-type(4)
+
+! http://www.carclub.mk/
+www.carclub.mk###sidebar > .widget:nth-of-type(6)
+
+! http://www.vipmarket5.mk/
+||www.vipmarket5.mk/themes/airlija/images/banners/
+
+! http://www.vipmarket5.mk/
+www.vipmarket5.mk###topBanner[href="http://olimpiko.com.mk/"]
+
+! http://motori.com.mk/
+||motori.com.mk/images/stories/joomlart/banners/
+
+! http://motori.com.mk/
+motori.com.mk###Mod205 > .module-inner > .module-ct > .bannergroup > .bannerfooter
+
+! http://motori.com.mk/
+motori.com.mk###t3-mainbody > .equal-height.grid-view.magazine-list.row:nth-of-type(2) > .t3-sidebar.col-md-4.col
+
+! http://motori.com.mk/
+motori.com.mk###Mod182 > .module-inner > .module-ct > .bannergroup > .bannerfooter
+
+! Generic ad tracking
+||files.bannersnack.net/
+
+! http://gsm.mk/
+||gsm.mk/reklami/
+
+! marketkonekt.com/mk/
+||mk.marketkonekt.com/mk/
+
+! Generic ad tracking
+||http://pl.panelmk.gemius.com/
