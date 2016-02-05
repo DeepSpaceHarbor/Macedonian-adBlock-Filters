@@ -1121,3 +1121,228 @@ motori.com.mk###Mod182 > .module-inner > .module-ct > .bannergroup > .bannerfoot
 
 ! Generic ad tracking
 ||http://pl.panelmk.gemius.com/
+
+! http://press24.mk/
+press24.mk##.brandingWrapper > div > .branding
+
+! http://press24.mk/
+||a.press24.mk/www/delivery/afr.php
+
+! http://press24.mk/
+press24.mk###hstp_5345_interstitial_div
+
+! http://ireklama.mk/
+||ireklama.mk/
+
+! http://www.mkd.mk/
+www.mkd.mk###mini-panel-sidebar_top > .region-one-main.region > .clearfix.region-inner > .panel-pane-odd.responsive.pane-mkd-ads-250x208-1.pane-block.panel-pane
+
+! http://www.mkd.mk/
+www.mkd.mk###mini-panel-sidebar_top > .region-one-main.region > .clearfix.region-inner > .panel-pane-odd.pane-mkd-ads-250x208-3.pane-block.panel-pane
+
+! http://www.mkd.mk/
+||ads.mkd.mk/
+
+! http://www.mkd.mk/
+||mkd.mk/epp/
+
+! http://fokus.mk/
+||form.jotformeu.com/
+
+! http://fokus.mk/
+fokus.mk###text-22 > .textwidget
+
+! http://fokus.mk/
+fokus.mk###text-20
+
+! http://fokus.mk/
+fokus.mk###adrotate_widgets-37
+
+! http://fokus.mk/#
+fokus.mk###text-7
+
+! http://faktor.mk/
+||www.fakulteti.mk/custom/widgets/
+
+! http://sky.mk/
+sky.mk###Mod458 > .module-inner
+
+! http://www.sky.mk/
+www.sky.mk###hstp_5650_interstitial_div
+
+! http://www.sky.mk/
+www.sky.mk###articlepxfontsize1 > div:nth-of-type(3)
+
+! http://www.sky.mk/
+www.sky.mk###Mod462 > .module-inner
+
+! http://www.sky.mk/
+www.sky.mk###articlepxfontsize1 > div:nth-of-type(5)
+
+!  supermedia ad tracker
+||http://212.13.64.105/server/inline_popad/
+
+! supermedia ad tracker
+||http://212.13.64.105/
+
+! http://sky.mk/
+sky.mk###articlepxfontsize1 > div:nth-of-type(3)
+
+! http://sky.mk/
+||sky.mk/images/januari_2015/_D_/
+
+! http://ohridsky.com/
+ohridsky.com###adwidget_imagewidget-31
+
+! http://ohridsky.com/
+ohridsky.com###adwidget_imagewidget-60
+
+! http://ohridsky.com/
+ohridsky.com###page-wrapper > .vwpc-row.row:nth-of-type(4) > .vwpc-section-latest_category > .col-md-4.col-sm-5 > .sidebar-wrapper > .sidebar-inner
+
+! http://ohridsky.com/
+ohridsky.com###page-wrapper > .vwpc-row.row:nth-of-type(5)
+
+! http://ohridsky.com/?p=147892
+ohridsky.com###page-sidebar > .sidebar-inner
+
+! http://ohridsky.com/?p=147892
+ohridsky.com###text-2 > .textwidget > div
+
+! http://www.macedoniasky.mk/
+www.macedoniasky.mk###sidebar-wrapper > ul
+
+! http://www.macedoniasky.mk/
+www.macedoniasky.mk###home-left > ul > .home-widget:nth-of-type(1)
+
+! http://www.macedoniasky.mk/
+www.macedoniasky.mk###leader-wrapper
+
+! http://makborba.mk/
+makborba.mk###right_top > .block.yt-position-inner
+
+! http://makfax.com.mk/
+||makfax.com.mk/upload/Banners/
+
+! http://makfax.com.mk/
+makfax.com.mk###marketing_holder
+
+! http://makfax.com.mk/
+makfax.com.mk###content > .row:nth-of-type(2) > .col-sm-12.col-md-8 > .row.hide_b:nth-of-type(3)
+
+! http://makfax.com.mk/
+makfax.com.mk###content > .row:nth-of-type(2) > .col-sm-12.col-md-8 > .row.hide_b:nth-of-type(6)
+
+! http://makfax.com.mk/
+makfax.com.mk###content > .row:nth-of-type(2) > .col-sm-12.col-md-8 > .row.hide_b > .col-md-12 > a[href^="/Banner/RedirectTo"]
+
+! http://reporter.mk/
+||reporter.mk/wp-content/uploads/2016/01/208-728x90_januari-2016.html
+
+! http://kanal77.mk/
+||ads.kanal77.com.mk/
+
+! http://kanal77.mk/
+kanal77.mk###wrapper > .inner-wrapper > .e3lan-bottom.e3lan
+
+! http://www.radiofortuna.com.mk/
+www.radiofortuna.com.mk###equal_col_left > .col-module-style2.col-module:nth-of-type(4)
+
+! http://evesti.mk/
+evesti.mk###panorama-banner
+
+! http://evesti.mk/
+||evesti.mk/wp-content/uploads/banners/
+
+! http://evesti.mk/
+evesti.mk###content-wrap\ pocetna-wrap > .home-sidebar-right:nth-of-type(5) > .widget.widget-ads:nth-of-type(8)
+
+! http://evesti.mk/
+evesti.mk###sidebar > .widget.widget-ads:nth-of-type(9)
+
+! http://lider.mk/
+lider.mk###sponzorirani
+
+! http://lider.mk/
+||lider.mk/wp-content/uploads/banners/
+
+! http://www.radiomk.com/
+www.radiomk.com###ads-menu
+
+! http://www.radiomk.com/
+www.radiomk.com###reklami
+
+! http://www.radiomk.com/
+www.radiomk.com###text-6 > .textwidget
+
+! http://hitportal.com.mk/
+||hitportal.com.mk/banners/
+
+! Generic ads
+||www.adcash.com/
+
+! http://hitportal.com.mk/
+hitportal.com.mk###SC_TBlock_92849
+
+! http://reporter.mk/
+reporter.mk###sb-site > .header-wraper > .header_main_wrapper > .row > .header-top-right.columns.eight
+
+! http://www.radiomof.mk/
+www.radiomof.mk###text-4
+
+! http://www.radiomof.mk/
+www.radiomof.mk###text-5
+
+! http://www.radiomof.mk/
+www.radiomof.mk##.main-wrap > .logos
+
+! http://www.biznisvesti.mk/
+www.biznisvesti.mk###text-32
+
+! http://www.biznisvesti.mk/
+||biznisvesti.mk/wp-content/banners/
+
+! http://www.biznisvesti.mk/
+www.biznisvesti.mk###text-30
+
+! http://lokalno.mk/
+lokalno.mk###text-8
+
+! http://lokalno.mk/
+lokalno.mk###text-13
+
+! http://lokalno.mk/
+lokalno.mk###text-16
+
+! http://lokalno.mk/
+lokalno.mk###text-17
+
+! http://lokalno.mk/
+lokalno.mk###text-10
+
+! http://lokalno.mk/
+lokalno.mk###text-7
+
+! http://puls24.mk/
+puls24.mk###rightcontent > div:nth-of-type(11) > div:nth-of-type(1) > a[href^="/Banner/RedirectTo"]
+
+! http://puls24.mk/
+puls24.mk###rightcontent > div:nth-of-type(11)
+
+! http://puls24.mk/
+||puls24.mk/upload/Puls24/flash/
+
+! http://tzm.mk/
+||tzm.mk/upload/PixelBanner/
+
+! http://mk.rbth.com/
+mk.rbth.com##.wrapper > .clearfix.container_12 > .no-print.sidebar.omega.grid_4 > .no-print.adv:nth-of-type(9)
+
+! tripadvisor embeded widget
+||www.tripadvisor.com/WidgetEmbed-cdsgeohighlights
+
+! http://mk.rbth.com/
+mk.rbth.com##.wrapper > .clearfix.container_12 > .no-print.sidebar.omega.grid_4 > .no-print.adv:nth-of-type(4)
+
+! http://mk.rbth.com/
+mk.rbth.com##.wrapper > .clearfix.container_12 > .no-print.sidebar.omega.grid_4 > .no-print.adv:nth-of-type(2)
