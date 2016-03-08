@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
-! Expires: 1 days
-! Last update: 5 February 2016
+! Expires: 1 day
+! Last update: 8 March 2016
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1346,3 +1346,204 @@ mk.rbth.com##.wrapper > .clearfix.container_12 > .no-print.sidebar.omega.grid_4 
 
 ! http://mk.rbth.com/
 mk.rbth.com##.wrapper > .clearfix.container_12 > .no-print.sidebar.omega.grid_4 > .no-print.adv:nth-of-type(2)
+
+! http://a1on.mk/
+a1on.mk###text-92
+
+! http://a1on.mk/
+a1on.mk###text-90
+
+! http://alsat.mk/
+alsat.mk##.site_container > .page > .clearfix.page_layout > .page_margin_top.row > .column_1_3_responsive.column_right_no_padding.column_1_3.column > .banenrs-index-right
+
+! http://alsat.mk/
+alsat.mk##.site_container > .page > .clearfix.page_layout > .page_margin_top.row > .column_2_3_resposive.column_2_3.column > .banenrs-index-right
+
+! http://24vesti.mk/
+24vesti.mk###block-views-kgn_advertisment-block_2 > .content
+
+! http://www.ohridnews.com/
+www.ohridnews.com###main > aside
+
+! http://www.ohridnews.com/
+||media.ohridnews.com/klienti/
+
+! http://plusinfo.mk/
+javascript:"<html><body style='background:transparent'></body></html>"$domain=plusinfo.mk
+
+! http://plusinfo.mk/
+plusinfo.mk###Form1 > .main_content > .main_content_right > div:nth-of-type(3) > center > div:nth-of-type(1)
+
+! http://plusinfo.mk/
+plusinfo.mk###Form1 > .main_content > .main_content_right > div:nth-of-type(3) > center > div
+
+! http://puls24.mk/
+puls24.mk###main210d31973a > div:nth-of-type(2)
+
+! http://fashionel.mk/
+||ads.fashionel.mk/
+
+! http://fashionel.mk/
+fashionel.mk###sidebar > .pane-sidebar.pane-panels-mini.panel-pane > .content > .pane-block-6.pane-block.panel-pane
+
+! http://brkajrabota.mk/
+||www.brkajrabota.mk/images/banners/
+
+! http://brkajrabota.mk/
+brkajrabota.mk###right_top > .moduletable:nth-of-type(3)
+
+! http://pixel.mk/
+||reklami.pixel.mk/
+
+! http://film24.mk/
+film24.mk##body > a[href="http://www.cineplexx.mk/movie/the-brothers-grimsby/"]:nth-of-type(1)
+
+! http://www.ladybook.mk/
+||www.ladybook.mk/images/banners/
+
+! http://reporter.mk/
+||reporter.mk/wp-content/uploads/2016/02/508_300x250px_fevruari_2016_.html
+
+! Kajgana media
+||a.kajgana.mk/
+
+! http://lokalno.mk/
+lokalno.mk###text-19
+
+! http://lokalno.mk/
+||lokalno.mk/wp-content/uploads/*/*/*.html
+
+! Different - Digital Agency
+||banner-ads.different.com.mk/
+
+! Generic ads
+||ds.serving-sys.com/
+
+! http://kapital.mk/
+kapital.mk##.off-canvas-wrap > .inner-wrap > .hfeed.main-section > .header-wrap > .hide-for-small.row
+
+! http://kapital.mk/
+kapital.mk###enhancedtextwidget-36 > .widget-text.textwidget
+
+! http://kapital.mk/
+kapital.mk###enhancedtextwidget-30
+
+! http://kapital.mk/
+kapital.mk###enhancedtextwidget-13
+
+! http://kapital.mk/
+kapital.mk###enhancedtextwidget-8
+
+! marketkonekt.com widgets
+||cdn.marketkonekt.com/makedonija/
+
+! http://kapital.mk/
+kapital.mk###enhancedtextwidget-25
+
+! http://www.akademik.mk/
+www.akademik.mk##.main-wrapper > .sidebar-inside > .singlesid.sidebar > .sidebar-ad:nth-of-type(5) > embed
+
+! http://www.akademik.mk/
+||www.akademik.mk/wp-content/uploads/*/*/*.swf
+
+! http://www.kumanovonews.com/
+||images.kumanovonews.com/reklami/
+
+! http://www.kavadar4e.com/
+||www.kavadar4e.com/images/reklami/
+
+! http://www.kavadar4e.com/
+||www.kavadar4e.com/images/Flash/
+
+! http://www.kavadar4e.com/
+||www.kavadar4e.com/FLASH/
+
+! http://www.kavadar4e.com/
+www.kavadar4e.com###topwrap
+
+! http://www.kavadar4e.com/
+||kavadar4e.com/images/galerija/
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###header-branding > .container > .row > .banner-src.text-right.col-sm-8
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###sidebar > .theiaStickySidebar > .ad:nth-of-type(5)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###sidebar > .theiaStickySidebar > .ad:nth-of-type(5)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###sidebar > .theiaStickySidebar > .ad:nth-of-type(5)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###main > .row-fluid.wpb_row.vc_row:nth-of-type(1)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###sidebar > .theiaStickySidebar > .ad:nth-of-type(6)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###sidebar > .theiaStickySidebar > .ad:nth-of-type(6)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###main > .row-fluid.wpb_row.vc_row:nth-of-type(8)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###main > .row-fluid.wpb_row.vc_row:nth-of-type(9)
+
+! http://kumanovskimuabeti.mk/
+kumanovskimuabeti.mk###page-inner-wrap > .container:nth-of-type(3) > .text-center.ad-970x90.ad-top.ad
+
+! http://pozitiv.mk/
+pozitiv.mk###text-14
+
+! http://pozitiv.mk/
+pozitiv.mk###text-8
+
+! http://pozitiv.mk/
+pozitiv.mk###text-17
+
+! http://pozitiv.mk/
+pozitiv.mk###text-9
+
+! http://pozitiv.mk/
+pozitiv.mk###text-12
+
+! http://pozitiv.mk/
+pozitiv.mk###text-15
+
+! http://pozitiv.mk/
+pozitiv.mk###text-18
+
+! http://autoinfo.mk/
+||autoinfo.mk/banners/
+
+! http://autoinfo.mk/
+autoinfo.mk###text-16
+
+! http://autoinfo.mk/
+autoinfo.mk###text-12
+
+! http://autoinfo.mk/
+autoinfo.mk###header > .header-banner
+
+! http://autoinfo.mk/
+autoinfo.mk###text-13
+
+! http://fox.mk/
+||ads.foxmedia.mk/
+
+! http://republika.mk/
+republika.mk###text-101
+
+! http://republika.mk/
+republika.mk###content-wrap > .home-sidebar-right:nth-of-type(12) > .widget.widget-ads:nth-of-type(3)
+
+! http://republika.mk/
+republika.mk###sidebar > .widget.widget-ads:nth-of-type(9)
+
+! http://tera.mk/
+tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-no-pagination.column_container.span12 > .td-page-text-content > .row-fluid.wpb_row > .column_container.wpb_column.span4 > .wpb_wrapper > .wpb_content_element.wpb_text_column:nth-of-type(1) > .wpb_wrapper > p:nth-of-type(1)
+
+! http://tera.mk/
+tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-no-pagination.column_container.span12 > .td-page-text-content > .row-fluid.wpb_row > .column_container.wpb_column.span4 > .wpb_wrapper > .wpb_content_element.wpb_text_column:nth-of-type(6)
