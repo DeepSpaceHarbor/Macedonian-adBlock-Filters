@@ -1547,3 +1547,15 @@ novatv.mk###mh-wrapper > .mh-group.mh-section.home > .home-sidebar
 
 ! http://novatv.mk/
 novatv.mk###top-news > .sb-widget
+
+! http://www.libertas.mk
+www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .header > .wrapper > .header-block > .header-banner
+
+! http://www.libertas.mk
+www.libertas.mk###sidebar
+
+! http://www.libertas.mk
+www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .footer > .wrapper > div
+
+! http://www.libertas.mk
+www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .content > .wrapper > .big-sidebar-right.main-content-wrapper > .main-content > .mob.def-panel:nth-of-type(1) > .shortocde-content.panel-content > div:nth-of-type(3)
