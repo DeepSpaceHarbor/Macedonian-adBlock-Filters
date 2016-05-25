@@ -1568,3 +1568,15 @@ www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wr
 
 ! http://fokus.mk/
 ||ads.fokus.mk/www/images/$subdocument
+
+! http://sdk.mk/
+sdk.mk###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-header-style-9.td-header-wrap > .td-banner-bg.td-banner-wrap-full
+
+! http://sdk.mk/
+sdk.mk###bg-exit
+
+! http://sdk.mk/
+sdk.mk###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-main-page-wrap.td-main-content-wrap > .td-container:nth-of-type(1) > .td-pb-row.wpb_row.vc_row > .vc_column_container.wpb_column.td-pb-span3:nth-of-type(3) > .wpb_wrapper > .td-a-rec-id-sidebar.td-a-rec
+
+! http://sdk.mk/
+sdk.mk###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-main-content-wrap > .td-post-template-default.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar > .td-a-rec-id-custom_ad_2.td-a-rec
