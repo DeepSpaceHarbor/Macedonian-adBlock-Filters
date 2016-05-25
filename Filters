@@ -1541,3 +1541,9 @@ tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap 
 
 ! http://tera.mk/
 tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-no-pagination.column_container.span12 > .td-page-text-content > .row-fluid.wpb_row > .column_container.wpb_column.span4 > .wpb_wrapper > .wpb_content_element.wpb_text_column:nth-of-type(6)
+
+! http://novatv.mk/
+novatv.mk###mh-wrapper > .mh-group.mh-section.home > .home-sidebar
+
+! http://novatv.mk/
+novatv.mk###top-news > .sb-widget
