@@ -1604,3 +1604,18 @@ tvm.mk##.tm-page-bg > .uk-container-center.uk-container > .tm-container > .uk-gr
 
 ! http://tvm.mk/
 tvm.mk##.tm-page-bg > .uk-container-center.uk-container > .tm-container > .tm-block-bottom > .tm-grid-block.uk-grid.tm-bottom-b > .uk-width-1-4:nth-of-type(3) > .uk-panel-box.uk-panel
+
+! http://reporter.mk/
+reporter.mk###aas_widget-6
+
+! http://reporter.mk/
+reporter.mk###text-66
+
+! http://reporter.mk/
+about:blank$domain=reporter.mk,subdocument
+
+! http://reporter.mk/
+||reporter.mk/wp-content/uploads/2016/04/308-2008-300x250px_april-2016.html$subdocument
+
+! http://reporter.mk/
+reporter.mk###kae_unique_id_0
