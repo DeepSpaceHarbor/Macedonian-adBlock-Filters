@@ -1631,3 +1631,18 @@ emagazin.mk###sidebar-baner
 
 ! http://emagazin.mk/
 emagazin.mk###category-wrapper:nth-of-type(3) > div:nth-of-type(1)
+
+! http://www.pravdiko.mk/
+www.pravdiko.mk###main > .clearfix:nth-of-type(1) > .ad_position5_1_post
+
+! http://www.pravdiko.mk/
+www.pravdiko.mk###main > .clearfix:nth-of-type(1) > .ad_position5_post
+
+! http://www.pravdiko.mk/
+www.pravdiko.mk###main > .clearfix:nth-of-type(1) > .widget:nth-of-type(11)
+
+! http://www.pravdiko.mk/
+www.pravdiko.mk###leftContent > .group.post > div:nth-of-type(3)
+
+! http://www.pravdiko.mk/
+www.pravdiko.mk###leftContent > .group.post > div:nth-of-type(4)
