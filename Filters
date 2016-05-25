@@ -63,14 +63,8 @@ forum.kajgana.com###content > .pageWidth > .pageContent > aside > .sidebar > ins
 ! Generic ad tracking
 ||ads.mpm.com.mk^
 
-! http://novatv.mk
-||novatv.mk/banners/*
-
 ! Generic
 ||aplikacii.com/ads/*
-
-! http://novatv.mk
-novatv.mk##body > .wrapper:nth-of-type(5) > .container > .topbaner
 
 ! http://kurir.mk
 ||kurir.mk/banners/*
