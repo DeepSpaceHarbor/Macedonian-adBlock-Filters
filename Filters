@@ -1559,3 +1559,12 @@ www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wr
 
 ! http://www.libertas.mk
 www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .content > .wrapper > .big-sidebar-right.main-content-wrapper > .main-content > .mob.def-panel:nth-of-type(1) > .shortocde-content.panel-content > div:nth-of-type(3)
+
+! http://fokus.mk/
+||ad.doubleclick.net/$subdocument
+
+! http://fokus.mk/
+||ads.fokus.mk/$image
+
+! http://fokus.mk/
+||ads.fokus.mk/www/images/$subdocument
