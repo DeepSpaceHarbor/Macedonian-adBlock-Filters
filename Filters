@@ -1595,3 +1595,12 @@ telma.com.mk###content > .section > .region-content.region > .clearfix.panels-fl
 
 ! http://telma.com.mk/
 telma.com.mk###content > .section > .region-content.region > .clearfix.panels-flexible-24.panel-flexible > .panels-flexible-24-inside.panel-flexible-inside > .clearfix.panels-flexible-row-last.panels-flexible-row-first.panels-flexible-row-24-sidebar.panels-flexible-row > .clearfix.panels-flexible-row-inside-last.panels-flexible-row-inside-first.panels-flexible-row-24-sidebar-inside.panels-flexible-row-inside.inside > .panels-flexible-row-24-main-row-right > .sidebar.panels-flexible-region-last.panels-flexible-region-24-sidebar.panels-flexible-region > .panels-flexible-region-inside-last.panels-flexible-region-24-sidebar-inside.panels-flexible-region-inside.inside > .pane-block-15.pane-block.panel-pane > .pane-content
+
+! http://tvm.mk/
+tvm.mk##.tm-page-bg > .uk-container-center.uk-container > .tm-container > .tm-block-bottom > .tm-grid-block.uk-grid.tm-bottom-b > .uk-width-1-4:nth-of-type(1) > .uk-panel-box.uk-panel
+
+! http://tvm.mk/
+tvm.mk##.tm-page-bg > .uk-container-center.uk-container > .tm-container > .uk-grid.tm-middle > .uk-width-medium-1-4.tm-sidebar-b > .uk-panel-box.uk-panel:nth-of-type(2)
+
+! http://tvm.mk/
+tvm.mk##.tm-page-bg > .uk-container-center.uk-container > .tm-container > .tm-block-bottom > .tm-grid-block.uk-grid.tm-bottom-b > .uk-width-1-4:nth-of-type(3) > .uk-panel-box.uk-panel
