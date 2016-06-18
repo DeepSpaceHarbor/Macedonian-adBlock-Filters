@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 8 March 2016
+! Last update: 18 June 2016
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1656,3 +1656,18 @@ www.aberdzija.com###bdvifrmloc1789583
 
 ! http://www.aberdzija.com/
 www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(11)
+
+! http://a1on.mk
+a1on.mk##.container > .row > .span12 > .sitebody > .primary-bottomads
+
+! http://a1on.mk
+a1on.mk###text-103 > .widgetinner
+
+! http://a1on.mk
+a1on.mk##.container > .row > .span12 > .sitebody > .site-header > .header_2ndrow > .headerbanner.pull-right
+
+! http://a1on.mk
+a1on.mk###text-105 > .widgetinner
+
+! http://a1on.mk
+a1on.mk###sidebar
