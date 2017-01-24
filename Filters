@@ -1677,3 +1677,10 @@ a1on.mk###sidebar
 
 ! http://novatv.mk/
 novatv.mk##.mh-sidebar
+
+! http://fokus.mk/
+fokus.mk##.td-a-rec-id-sidebar.td-a-rec
+
+! http://www.libertas.mk/
+www.libertas.mk##.shortocde-content.panel-content > div:nth-of-type(4)
+
