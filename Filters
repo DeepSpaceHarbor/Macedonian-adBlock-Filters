@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 24 January 2017
+! Last update: 25 January 2017
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1683,4 +1683,209 @@ fokus.mk##.td-a-rec-id-sidebar.td-a-rec
 
 ! http://www.libertas.mk/
 www.libertas.mk##.shortocde-content.panel-content > div:nth-of-type(4)
+
+! http://tv21.tv/mk/
+tv21.tv##.td-visible-desktop
+
+! http://republika.mk/
+republika.mk###sidebar
+
+! http://republika.mk/
+republika.mk##.home-ad-area
+
+! http://faktor.mk/
+faktor.mk##.sponsored_article
+
+! http://makfax.com.mk/
+makfax.com.mk##.ar-placeholder
+
+! http://www.radiomof.mk/
+www.radiomof.mk###text-12
+
+! http://sdk.mk/
+||sdk.mk/sdk-adv/*
+
+! http://tvnova.mk/
+tvnova.mk##.relative.text-center.ad-content
+
+! http://tvnova.mk/
+tvnova.mk##.padding-0.col-md-12:nth-of-type(3)
+
+! http://novamakedonija.com.mk/
+||adserver.novamakedonija.com.mk/
+
+! http://plusinfo.mk/
+plusinfo.mk##.recent-ban:nth-of-type(11)
+
+! http://plusinfo.mk/
+||ads.365.mk/
+
+! http://plusinfo.mk/
+plusinfo.mk##a[href^="http://www.fxlider.com/mk/"]
+
+! http://makedonijadenes.com.mk/
+makedonijadenes.com.mk##.theiaStickySidebar
+
+! http://makedonijadenes.com.mk/
+makedonijadenes.com.mk##.e3lan-bottom.e3lan
+
+! http://makedonijadenes.com.mk/
+makedonijadenes.com.mk##.e3lan-top.e3lan
+
+! http://puls24.mk/mk/
+||puls24.mk/2017/baneri/
+
+! http://puls24.mk/
+||reklami.digitalpresent.mk/
+
+! http://lokalno.mk/
+||ads.lokalno.mk/
+
+! https://10bez10.com/
+||10bez10.com/ads/
+
+! https://10bez10.com/
+||10bez10.com/images/banners/
+
+! http://pozitiv.mk/
+pozitiv.mk##.mkdf-sidebar
+
+! http://pozitiv.mk/
+pozitiv.mk##.vc_col-sm-4.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper
+
+! http://netpress.com.mk/
+netpress.com.mk##.widget.widget-ads
+
+! http://www.press24.mk/
+www.press24.mk###block-block-25
+
+! http://www.press24.mk/
+||a.press24.mk/
+
+! http://turlitava.com/
+turlitava.com###sidebar
+
+! http://turlitava.com/
+turlitava.com###header-ads
+
+! http://turlitava.com/
+turlitava.com##div:nth-of-type(4) > .lazyloaded
+
+! http://turlitava.com/
+turlitava.com###SC_TBlock_101394
+
+! http://turlitava.com/
+turlitava.com###content > .home-boxes > .home-ads.box-home
+
+! http://tera.mk/
+tera.mk##.td-a-rec-id-header.td-a-rec
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2016/01/josifov.jpg$image
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2015/07/aries.jpg$image
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2015/07/Telekabel_logo.jpg$image
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2016/01/fer-komp.jpg$image
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2016/07/13695099_1253805737965440_1652189031_n.jpg$image
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2016/11/logo_faktor.png$image
+
+! http://tera.mk/
+||tera.mk/wp-content/uploads/2016/11/logo.png$image
+
+! http://www.fakulteti.mk/
+||www.fakulteti.mk/reklami/
+
+! http://reporter.mk/
+||reporter.mk/ads/
+
+! http://svedok.org.mk/
+svedok.org.mk##a[href="http://medium3.mk/"]
+
+! http://tvorbis.com.mk/
+tvorbis.com.mk##.td-a-rec-id-content_bottom.td-a-rec
+
+! http://skopjeinfo.mk/
+||ads.skopjeinfo.mk/
+
+! http://www.brif.mk/
+www.brif.mk###banner-5
+
+! http://www.brif.mk/
+www.brif.mk##.banner-image
+
+
+! http://bi.mk/
+||bi.mk/baneri/
+
+! http://bi.mk/
+bi.mk###frameworkad-111
+
+! http://bi.mk/
+bi.mk###sidebar-standard
+
+! http://bi.mk/
+||www.pazar3.mk/wgdata/$subdocument
+
+! http://bi.mk/
+||www.najdidom.mk/widget/$subdocument
+
+! http://denar.mk/
+denar.mk##a[href^="http://hostiranje.mk/"]
+
+! http://denar.mk/
+||cdn.grouper.mk/files/widgets/$subdocument
+
+! http://denar.mk/
+||tas-mk.toboads.com/
+
+! http://zase.mk/
+||ads.zase.mk/$image
+
+! http://zase.mk/
+zase.mk##a[href^="http://ads.zase.mk/"]
+
+! http://zase.mk/
+||kariera.mk/images/banners/
+
+! http://www.exclusive.mk/
+||www.exclusive.mk/NewsManagement/Upload/Banners/
+
+! http://www.exclusive.mk/
+www.exclusive.mk##.clearfix.post-wrapper > .dolg_bn_g
+
+! http://www.exclusive.mk/
+www.exclusive.mk##.adwidget
+
+! http://www.exclusive.mk/
+www.exclusive.mk##.clearfix.sidebar > div:nth-of-type(1)
+
+! http://off.net.mk/
+off.net.mk###trendolend-banner
+
+! http://off.net.mk/
+||ads.trendolend.mk/
+
+! http://mkd-news.com/
+||grid.mk/adsgrid$subdocument
+
+! http://mkd-news.com/
+||time.mk/widget/$subdocument
+
+! http://kanal77.mk/
+kanal77.mk##.theiaStickySidebar
+
+! http://www.slobodenpecat.mk/
+||ads.slobodenpecat.mk/
+
+! http://www.biznisvesti.mk/
+www.biznisvesti.mk###text-69 > .widget-container
 
