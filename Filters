@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 25 January 2017
+! Last update: 26 January 2017
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1889,3 +1889,5 @@ kanal77.mk##.theiaStickySidebar
 ! http://www.biznisvesti.mk/
 www.biznisvesti.mk###text-69 > .widget-container
 
+! http://novatv.mk/
+novatv.mk##.mh-sidebar
