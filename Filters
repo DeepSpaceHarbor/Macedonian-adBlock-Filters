@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 25 March 2017
+! Last update: 3 May 2017
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1906,3 +1906,13 @@ sdk.mk###text-9 > .textwidget
 
 ! http://telma.mk/
 telma.mk##.pane-block-15.pane-block.panel-pane
+
+
+! https://webtv.vip.mk/
+||webtv.vip.mk/kanali-img/tv-presentment_vip-now.jpg$image
+
+! https://webtv.vip.mk/
+||webtv.vip.mk/kanali-img/viptv-banner-small1.png$image
+
+! https://webtv.vip.mk/
+webtv.vip.mk##.well > p:nth-of-type(2)
