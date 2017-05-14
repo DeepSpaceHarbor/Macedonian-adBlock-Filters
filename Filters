@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 13 May 2017
+! Last update: 14 May 2017
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1918,3 +1918,6 @@ webtv.vip.mk##.well > p:nth-of-type(2)
 
 ! http://kurir.mk/
 kurir.mk###ireklama
+
+! http://24vesti.com.mk/
+24vesti.com.mk###block-views-kgn_advertisment-block_2
