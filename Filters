@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 24 May 2017
+! Last update: 20 July 2017
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1939,3 +1939,12 @@ istokpress.mk##.td-main-sidebar.td-pb-span4
 
 ! http://istokpress.mk/
 istokpress.mk##.wpb_wrapper > .td-a-rec-id-sidebar.td-a-rec
+
+! http://exclusive.mk/
+||exclusive.mk/banners/^
+
+! http://exclusive.mk/
+exclusive.mk###current-article > .exclusivead
+
+! http://exclusive.mk/
+exclusive.mk##.exclusivead
