@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 20 July 2017
+! Last update: 4 August 2017
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -1948,3 +1948,6 @@ exclusive.mk###current-article > .exclusivead
 
 ! http://exclusive.mk/
 exclusive.mk##.exclusivead
+
+! http://aktuelno24.mk/
+aktuelno24.mk##a[href^="http://block.s2block.com/click"]
