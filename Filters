@@ -1,6 +1,6 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 20 August 2017
+! Last update: 18 April 2018
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -2002,3 +2002,9 @@ markukule.mk##.slides
 
 ! http://www.fama.mk/
 ||www.fama.mk/images/banners/$image
+
+! https://time.mk/
+||time.mk/ads/$subdocument
+
+! https://time.mk/
+time.mk###adpos_branding
