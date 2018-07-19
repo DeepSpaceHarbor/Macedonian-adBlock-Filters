@@ -2008,3 +2008,12 @@ markukule.mk##.slides
 
 ! https://time.mk/
 time.mk###adpos_branding
+
+! http://jugoinfo.mk/
+jugoinfo.mk##div.reklama2
+
+! http://jugoinfo.mk/
+||jugoinfo.mk/images/reklami/*$image
+
+! http://jugoinfo.mk/
+jugoinfo.mk###animation_container
