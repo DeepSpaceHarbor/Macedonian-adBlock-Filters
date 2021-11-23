@@ -2,7 +2,7 @@
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
 ! Last update: 23 November 2021
-! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
+! Issue tracker: https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
 !||a.press24.mk^
