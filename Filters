@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 23 June 2020
+! Last update: 23 November 2021
 ! Issue tracker: https://github.com/RandomAdversary/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -86,6 +86,10 @@ fokus.mk###text-20
 fokus.mk###text-22 > .textwidget
 fokus.mk###text-7
 fokus.mk##.td-a-rec-id-sidebar.td-a-rec
+fokus.mk##.penci-sticky-sidebar.pcicon-right.pciconp-right.pcalign-left.style-12.penci-sidebar-content.penci-sidebar-left
+fokus.mk###sidebar > .theiaStickySidebar
+fokus.mk##.fokus-target
+fokus.mk##.penci-sidebar-right
 forum.kajgana.com###content > .pageWidth > .pageContent > aside > .sidebar > ins:nth-of-type(1) > iframe
 forum.kajgana.com###content > .pageWidth > .pageContent > aside > .sidebar > ins:nth-of-type(2) > iframe
 grid.mk###ad_1_3
@@ -276,6 +280,7 @@ tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap 
 tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-no-pagination.column_container.span12 > .td-page-text-content > .row-fluid.wpb_row > .column_container.wpb_column.span4 > .wpb_wrapper > .wpb_content_element.wpb_text_column:nth-of-type(6)
 tera.mk##.td-a-rec-id-header.td-a-rec
 time.mk###adpos_branding
+||time.mk/ads/$image
 tirekovmirece.com###ads_region3
 tirekovmirece.com##.container > .row > .col-md-8.col-xs-12 > .main.row > .col-xs-12:nth-of-type(1)
 tocka.com.mk###td_body_levo > table:nth-of-type(5) > tbody > tr > td:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
