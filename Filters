@@ -87,7 +87,6 @@ fokus.mk###text-22 > .textwidget
 fokus.mk###text-7
 fokus.mk##.td-a-rec-id-sidebar.td-a-rec
 fokus.mk##.penci-sticky-sidebar.pcicon-right.pciconp-right.pcalign-left.style-12.penci-sidebar-content.penci-sidebar-left
-fokus.mk###sidebar > .theiaStickySidebar
 fokus.mk##.fokus-target
 fokus.mk##.penci-sidebar-right
 forum.kajgana.com###content > .pageWidth > .pageContent > aside > .sidebar > ins:nth-of-type(1) > iframe
@@ -202,7 +201,6 @@ ohridsky.com###page-sidebar > .sidebar-inner
 ohridsky.com###page-wrapper > .vwpc-row.row:nth-of-type(4) > .vwpc-section-latest_category > .col-md-4.col-sm-5 > .sidebar-wrapper > .sidebar-inner
 ohridsky.com###page-wrapper > .vwpc-row.row:nth-of-type(5)
 ohridsky.com###text-2 > .textwidget > div
-panika.be###form1 > * > * > * > * > .panikaad
 plusinfo.mk###banner-flash
 plusinfo.mk###div-gpt-ad-1434823289232-0
 plusinfo.mk###Form1 > .main_content > .main_content_left > .leftSide.flt > .top5news > .top4news > .glavnaVest > .rubriki_left_banner:nth-of-type(14)
@@ -324,14 +322,12 @@ www.biznisvesti.mk###text-30
 www.biznisvesti.mk###text-32
 www.biznisvesti.mk###text-69 > .widget-container
 www.brif.mk###banner-5
-www.brif.mk##.banner-image
 www.carclub.mk###header-banner
 www.carclub.mk###main > div:nth-of-type(1) > iframe
 www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://malikovski.com"]
 www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.lagermax.mk"]
 www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.sportinn.mk"]
 www.carclub.mk###sidebar > .widget:nth-of-type(6)
-www.crnobelo.com###col-right > .moduletable-sidebar-a
 www.dokaz.mk###sidebar > .widget:nth-of-type(4) > .ads728x90-thumb
 www.dokazm.mk###text-2
 www.exclusive.mk##.adwidget
@@ -415,7 +411,6 @@ www.telegraf.mk###content > .cf.fl.mb.sidebar > .widget-aktuelno.widget:nth-of-t
 www.telegraf.mk###content > .cf.fl.mb.sidebar > .widget-aktuelno.widget:nth-of-type(4)
 www.telegraf.mk###content > .cf.fl.sidebar:nth-of-type(5) > .cf.widget:nth-of-type(1)
 www.time.mk###adpos1
-www.time.mk###ads_pane
 www.vipmarket5.mk###topBanner[href="http://olimpiko.com.mk/"]
 www.vrabotuvanje.com.mk###formAll > .global > .content > .side > .sideBanner
 zase.mk###div-gpt-ad-1416060558272-2
@@ -443,7 +438,6 @@ zk.mk##.maincontainer > .olamazi > .justcontent > .ishome_true.static_detect.con
 ||ads.popularno.mk^
 ||ads.puls24.mk^
 ||ads.slobodenpecat.mk/
-||ads.sportmedia.mk/*
 ||ads.telefoni.mk/
 ||ads.vecer.mk/*
 ||ads.zase.mk/$image
@@ -478,7 +472,6 @@ zk.mk##.maincontainer > .olamazi > .justcontent > .ishome_true.static_detect.con
 ||kajgana.com/_ad/*
 ||kariera.mk/images/banners/
 ||kavadar4e.com/images/galerija/
-||keepaneyeadmk.hit.gemius.pl^
 ||koli.com.mk/baneri_html5/
 ||kurir.mk/banners/*
 ||libertas.mk/wp-content/uploads/2015/09/Banner-Unet-Web-300x250.swf
@@ -584,144 +577,755 @@ zk.mk##.maincontainer > .olamazi > .justcontent > .ishome_true.static_detect.con
 ||www.vrabotuvanje.com.mk/Content/dataImages/banners/
 
 ! Borrowed from https://github.com/cchevy/macedonian-pi-hole-blocklist, which is maintained by https://github.com/cchevy
-||10bet.com^
-||a.sitel.com.mk^
-||acadv.net^
-||adxbid.info^
-||adxpremium.services^
-||ad.mox.tv^
-||adexchange.mk^
-||adocean.pl^
-||ads.1cm.com.mk^
-||ads.360stepeni.mk^
-||ads.365.mk^
-||ads.com.mk^
-||ads.crnobelo.mk^
-||ads.deca.mk^
-||ads.ekipa.mk^
-||ads.emedia.mk^
-||ads.exdynsrv.com^
-||ads.faktor.mk^
-||ads.fakulteti.mk^
-||ads.fashionel.mk^
-||ads.fokus.mk^
-||ads.foxit.mk^
-||ads.grouper.mk^
-||ads.idividi.com.mk^
-||ads.it.mk^
-||ads.kafepauza.mk^
-||ads.kajgana.com^
-||ads.kanal77.mk^
-||ads.lokalno.mk^
-||ads.mkd.mk^
-||ads.nexage.com^
-||ads.novatv.mk^
-||ads.plusinfo.mk^
-||ads.press24.mk^
-||ads.programattik.com^
-||ads.pubmatic.com^
-||ads.skopjeinfo.mk^
-||ads.sport1.mk^
-||ads.sportclub.mk^
-||ads.stankov.me^
-||ads.studenti.mk^
-||ads.tocka.com.mk^
-||ads.trendolend.mk^
-||ads.vrabotuvanje.com.mk^
-||adsdms.mk^
-||adserver.mk^
 ||adserver.neotel.mk^
-||adservice.google.mk^
-||advertiseserve.com^
-||aplikacii.com^
-||baneri.24fudbal.com.mk^
-||bttrack.com^
-||clevernt.com^
-||clickattack.mk^
-||cm.adskeeper.co.uk^
-||coinmedia.tk^
-||d.agkn.com^
-||doubleclick.net^
-||ds-aksb-a.akamaihd.net^
-||eadsrv.com^
-||easyads.bg^
-||hipersushiads.com^
-||httpool.com^
-||httpool.com.mk^
-||ib.adnxs.com^
-||ireklama.mk^
-||jsc.adskeeper.co.uk^
-||keepaneye.mk^
-||keepaneyegdemk.hit.gemius.pl^
-||lacmus.mk^
-||live.acads.net^
-||load77.exelator.com^
-||loadm.exelator.com^
-||marketgid.com^
-||marketing.centar.com.mk^
-||marketing.utrinskivesnik.mk^
-||mas.nth.ch^
-||match.adsrvr.org^
-||match.taboola.com^
-||mgid.com^
-||midas-network.com^
-||mobi-promo.com^
-||mozzart.ideaplus.mk^
-||n.ads-adnow.com^
-||n.ads1-adnow.com^
-||n.ads2-adnow.com^
-||n.ads3-adnow.com^
-||n.ads4-adnow.com^
-||n.ads5-adnow.com^
-||nativemedia.rs^
-||net-ads.mk^
-||onesignal.com^
-||pixel.onaudience.com^
-||pixel.quantserve.com^
-||pubpress.net^
-||r.denar.mk^
-||reklami.daily.mk^
-||reklami.gbccom.com.mk^
-||rev.balkanmediagroup.com^
-||revcontent.com^
-||revive.futura.net.mk^
-||rtb.mfadsrvr.com^
-||s-img.adskeeper.co.uk^
-||s.pubmine.com^
-||s0.2mdn.net^
-||s1.adform.net^
-||s2blosh.com^
-||sa.daily.mk^
-||servicer.adskeeper.co.uk^
-||serving-sys.com^
-||smartadserver.com^
-||st-n.ads1-adnow.com^
-||st-n.ads2-adnow.com^
-||st-n.ads3-adnow.com^
-||st-n.ads4-adnow.com^
-||st-n.ads5-adnow.com^
-||st-n.gsasd.info^
-||static.off.mk^
-||storygize.net^
-||tags.bluekai.com^
-||toboads.com^
-||tv21macedonia.xyz^
-||vdads2019.com^
-||vionservices.com^
 ||bid.aero^
-||x.bidswitch.net^
 alsat.mk##.theiaStickySidebar
 tera.mk##div.active.owl-item > .carousel-slider__item
 tera.mk##.wp-block-carousel-slider-slider
 tera.mk##.owl-stage
-tera.mk##.py-0.my-0.block-commercial
 republika.mk##.block__advertising-content
 ||republika.mk/banners/*$image
-republika.mk##.sidebar-inner
 hitportal.com.mk##.textwidget
-hitportal.com.mk##.td-a-rec-id-content_top.td-a-rec
-hitportal.com.mk##.td-a-rec-id-content_bottom.td-a-rec
 bitolanews.mk##.size-full.attachment-full
 bitolanews.mk##.ngg-fancybox
 bitolanews.mk##.size-full.alignnone
 alsat.mk##[href^="https://linker.mk/link.php"]
+24.mk###header > div.container:nth-child(3) > div.header-add-place:last-child
+24.mk###main-section > section.module.highlight:nth-child(2) > div.container > div.row.no-gutter > div.col-md-3:last-child
+24.mk###main-section > section.module.highlight:nth-child(4) > div.container > div.row.no-gutter > div.col-md-3:last-child
+24.mk###main-section > section.module:nth-child(3) > div.container > div.row.no-gutter > div.col-md-3:last-child
+24.mk##.sidebar-add-place
+24auto.mk###post-71230 > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.widget.widget_execphp:nth-child(2)
+24auto.mk###revive-0-1 > a:first-child > img
+24auto.mk###revive-0-10 > a:first-child > img
+24auto.mk###revive-0-14 > a:first-child > img
+24auto.mk###revive-0-18 > a:first-child > img
+24auto.mk###revive-0-2 > a:first-child > img
+24auto.mk###revive-0-4
+24auto.mk###revive-0-6 > a:first-child
+24auto.mk###revive-0-9 > a:first-child > img
+24auto.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row.vc_custom_1480358965731.vc_row-has-fill:nth-child(23)
+24auto.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row.vc_custom_1509985407405.vc_row-has-fill:nth-child(7) > div.wpb_column.vc_column_container.td-pb-span12
+24auto.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row.vc_custom_1510090816647:nth-child(9) > div.home-top-left.wpb_column.vc_column_container.td-pb-span3.vc_col-has-fill:last-child > div.vc_column-inner.vc_custom_1476780721561 > div.wpb_wrapper
+24auto.mk###topbar
+24fudbal.mk###clever-52951-top-scroll-shadow
+24fudbal.mk##div.container:nth-child(4) > div.row > div.col-sm-12 > div.top-banner:last-child
+24fudbal.mk##div.container:nth-child(6) > div.row:first-child > div.col-sm-4:last-child > div.banner-sidebar.center-block.mt20:nth-child(3)
+24fudbal.mk##div.container:nth-child(6) > div.row:first-child > div.col-sm-4:last-child > div.banner-sidebar.center-block:first-child
+24fudbal.mk##div.container:nth-child(6) > div.row:first-child > div.col-sm-8:nth-child(2) > div.single-news-wrap > div.col-sm-12:last-child
+24fudbal.mk##div.container:nth-child(6) > div.row:first-child > div.col-sm-8:nth-child(2) > div.single-news-wrap > div.news-content:nth-child(5) > div.col-sm-12:last-child
+24info.mk###main > div.vc_row.wpb_row.vc_row_15884349.vc_row-fluid.penci-pb-row:last-child > div.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.vc_column-inner.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.wpb_wrapper > div.penci-container-vc.penci-container-fluid.penci-container-width-1400.penci_vc_sticky_sidebar.penci-vc_two-sidebar > div.penci-container__content.penci-con_sb2_sb1 > div.widget-area.widget-area-1:last-child > div.theiaStickySidebar > div.vc_empty_space:nth-child(3)
+24info.mk###main > div.vc_row.wpb_row.vc_row_15884349.vc_row-fluid.penci-pb-row:last-child > div.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.vc_column-inner.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.wpb_wrapper > div.penci-container-vc.penci-container-fluid.penci-container-width-1400.penci_vc_sticky_sidebar.penci-vc_two-sidebar > div.penci-container__content.penci-con_sb2_sb1 > div.widget-area.widget-area-2:nth-child(2) > div.theiaStickySidebar > div.vc_empty_space:nth-child(5)
+24info.mk###penci-ad_box--14263
+24info.mk###penci-ad_box--36783
+24info.mk###penci-ad_box--74391
+24rakomet.mk###post-219062 > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.widget_text.td_block_template_1.widget.widget_custom_html:nth-child(3)
+24rakomet.mk###post-219062 > div.td-container > div.td-pb-row > div:first-child
+24rakomet.mk###revive-0-11
+24rakomet.mk###revive-0-12
+24rakomet.mk###revive-0-16
+24rakomet.mk###revive-0-9
+24rakomet.mk##.ads24rakomet
+360stepeni.mk##div.site-container:nth-child(2) > div.timer-container:first-child > div.d-flex.flex-row.flex-wrap.align-items-center.justify-content-center
+360stepeni.mk##div.site-container:nth-child(2) > div.top-banner.d-flex.justify-content-center.p--t-b-10.bg--black:first-child
+365.com.mk###td-outer-wrap > div.td-outer-container > div.td-container:nth-child(3) > div.td-container-border > div.vc_row.wpb_row.td-pb-row.td-ss-row:first-child > div.wpb_column.vc_column_container.td-pb-span4:last-child > div.vc_column-inner > div.wpb_wrapper
+365.com.mk###td-outer-wrap > div.td-outer-container > div.td-header-container.td-header-wrap.td-header-style-1:first-child > div.td-header-row.td-header-header:nth-child(2) > div.td-header-sp-rec:last-child > div.td-header-ad-wrap.td-ad-m.td-ad-tp.td-ad-p
+4news.mk###ac9b2ab4
+4news.mk###ad4497bf
+a1on.mk###cmg-live-floater-yt-video
+a1on.mk###cmgIframeYt
+aktuelno.mk###td-outer-wrap > div.td-header-wrap.td-header-style-1:first-child > div.td-banner-wrap-full.td-logo-wrap-full.td-container-wrap.td_stretch_container:nth-child(2) > div.td-container.td-header-row.td-header-header > div.td-header-sp-recs:last-child
+aktuelno.mk##.td-ss-main-sidebar
+automedia.mk###page > div.g1-row.g1-row-layout-page.g1-advertisement.g1-advertisement-before-header-theme-area:first-child
+automedia.mk###post-69316 > div.entry-inner:first-child > div.g1-wrapper-with-stickies:last-child > div.entry-essentials:first-child > div.entry-content.g1-typography-xl:last-child > div.code-block.code-block-3:nth-child(3) > a:nth-child(3) > img
+automedia.mk###primary > div.g1-collection.g1-collection-with-cards.g1-collection-list.g1-collection-list-s > div.g1-collection-viewport:nth-child(2) > ul.g1-collection-items > div.code-block.code-block-1.ai-viewport-1.ai-viewport-2:nth-child(6) > iframe
+automedia.mk###secondary
+automedia.mk##div.essb_topbar.essb_active_topbar:nth-child(4)
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-169:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-a3825c7.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-1810451:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-177:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-0a15420.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-b662c5e:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-180:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-9dedfb8.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-76d024a:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-184:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3412ed4.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-e126285:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-195:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4f3378f.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-685708f:last-child > div.elementor-column-wrap.elementor-element-populated
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-200:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-a3825c7.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-287b0c0:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-34:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-0e9ec57.elementor-section-boxed.elementor-section-height-default:nth-child(5) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-67a20be:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-53547:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3412ed4.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-a98551e:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtomagazin.com.mk###content > div.page-content > div.elementor.elementor-53803:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-a3825c7.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-bc1a23e:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+avtoplus.mk###custom_html-2
+avtoplus.mk###custom_html-4 > div.textwidget.custom-html-widget:first-child
+avtoplus.mk###revive-0-4 > a:first-child > img
+avtoplus.mk###revive-0-6 > iframe
+avtoplus.mk###rv-h5-7b6d9309f3
+avtoplus.mk###rv-h5-ab0415ef68
+avtoplus.mk###theme-header > div.container.header-container:first-child > div.tie-row.logo-row > div.tie-col-md-8.stream-item.stream-item-top-wrapper:last-child
+avtoplus.mk###tie-block_778
+avtoplus.mk##.theiaStickySidebar
+bankarstvo.mk###iframe_leader
+bankarstvo.mk###mvp-content-main > p:first-child
+bankarstvo.mk###mvp-content-main > p:last-child
+bankarstvo.mk###mvp-feat5-wrap > div.mvp-feat5-side-out.left.relative > div.mvp-feat5-side-wrap.left.relative:last-child > div.mvp-feat1-list-ad.left.relative:first-child > a:last-child > img.lazyloaded:first-child
+bankarstvo.mk###mvp-leader-wrap > a:first-child > img.lazyloaded:first-child
+bankarstvo.mk###mvp-post-feat-img > img.attachment-.size-.wp-post-image.lazyautosizes.lazyloaded:first-child
+bankarstvo.mk###mvp-side-wrap > div.theiaStickySidebar
+bankarstvo.mk###mvp_ad_widget-10 > div.mvp-main-box > div.mvp-widget-ad.left.relative
+bitolanews.mk###above-main
+bitolanews.mk###after-first-post
+bitolanews.mk###sidebar-left > div.inner
+bitolanews.mk###sidebar-right > div.inner
+biznisinfo.mk###clever-57103-top-scroll
+biznisvesti.mk###sidebar
+brif.mk###canvas
+brif.mk###custom_html-17
+brif.mk###custom_html-18 > div.textwidget.custom-html-widget
+brif.mk###text-27
+brif.mk###text-28 > div.textwidget
+brif.mk###text-33
+brif.mk###text-64
+brif.mk###text-91 > div.textwidget > p:last-child > a > img
+brif.mk##.banner-image
+brzkrug.com###theme-header > div.header-content:nth-child(2) > div.e3lan.e3lan-top:nth-child(3)
+centar.mk###main > div.penci-container > div.penci-container__content.penci-con_sb2_sb1 > aside.widget-area.widget-area-1.penci-sticky-sidebar.penci-sidebar-widgets:last-child
+centar.mk###main > div.vc_row.wpb_row.vc_row_24059029.vc_row-fluid.penci-pb-row:nth-child(2) > div.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.vc_column-inner.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.wpb_wrapper > div.penci-container-vc.penci-container-fluid.penci-container-width-1400.penci_vc_sticky_sidebar.penci-vc_two-sidebar:last-child > div.penci-container__content.penci-con_sb2_sb1 > div.widget-area.widget-area-1:last-child > div.theiaStickySidebar > div.wpb_raw_code.wpb_content_element.wpb_raw_html:first-child
+centar.mk###main > div.vc_row.wpb_row.vc_row_73703138.vc_row-fluid.penci-pb-row:nth-child(2) > div.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.vc_column-inner.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.wpb_wrapper > div.penci-container-vc.penci-container-fluid.penci-container-width-1400.penci_vc_sticky_sidebar.penci-vc_two-sidebar:last-child > div.penci-container__content.penci-con_sb2_sb1 > div.widget-area.widget-area-1:last-child > div.theiaStickySidebar > div.wpb_raw_code.wpb_content_element.wpb_raw_html:first-child > div.wpb_wrapper
+centar.mk##.code-block, .code-block-2
+citaj.mk###ads250_250-widget-2
+citaj.mk###theme-header > div.header-content:nth-child(2) > div.e3lan.e3lan-top:nth-child(3)
+citaj.mk###wrapper > div.inner-wrapper > div.e3lan.e3lan-bottom:nth-child(3)
+cooltura.mk###colornews_728x90_advertisement_widget-1 > div.magazine-block-large-ad.clearfix > div.tg-block-wrapper > div.ad-image > a > img
+crnobelo.com###side-banner-scroll > iframe
+crnobelo.com##.moduletable-sidebar-a
+deca.mk##div.container:nth-child(3) > main.clearfix:nth-child(2) > div.widget_text.sidebar:nth-child(2)
+denar.mk###tdi_37 > div.vc_row.tdi_38.wpb_row.td-pb-row > div.vc_column.tdi_40.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_42.vc_row.vc_inner.wpb_row.td-pb-row.tdc-row-content-vert-center:first-child > div.vc_column_inner.tdi_47.wpb_column.vc_column_container.tdc-inner-column.td-pb-span8:last-child > div.vc_column-inner:last-child > div.wpb_wrapper
+denar.mk###tdi_75 > div.vc_row.tdi_76.td-ss-row.wpb_row.td-pb-row > div.vc_column.tdi_97.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_98.td_block_template_14:first-child > div.td-visible-desktop:last-child > a:nth-child(2) > img.td-animation-stack-type0-2
+denar.mk###tdi_75 > div.vc_row.tdi_76.td-ss-row.wpb_row.td-pb-row > div.vc_column.tdi_97.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_99.td_block_template_14:nth-child(2)
+denar.mk###tdi_78 > div.vc_row.tdi_79.wpb_row.td-pb-row > div.vc_column.tdi_127.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_128.td_block_template_14:nth-child(2) > div.td-visible-desktop:last-child > a:nth-child(2) > img
+denar.mk###tdi_78 > div.vc_row.tdi_79.wpb_row.td-pb-row > div.vc_column.tdi_127.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_129.td_block_template_14:nth-child(3) > div.td-visible-desktop:last-child > a:nth-child(2) > img
+denesen.mk##.ads-container
+denesen.mk##.monadplug-intext-main-wrapper, .monadplug-intext-main-wrapper-12559-102101-104030-01653414022805
+denesen.mk##div.c-black.f-text.main:nth-child(7) > section.section.single-featured-news:first-child
+derbi.mk###desktopads
+derbi.mk###mvp-content-body > div.mvp-cont-read-wrap:last-child
+derbi.mk###mvp_ad_widget-11 > div.mvp-widget-ad.left.relative
+derbi.mk##.bannertopads
+divianarts.com##.td-header-sp-recs
+divianarts.com##.td-ss-main-sidebar
+dodajgas.mk###content > div.ast-container > div.elementor.elementor-2:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-element.elementor-element-a2f1071.elementor-section-boxed.elementor-section-height-default.elementor-section.elementor-top-section:nth-child(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-element.elementor-element-478279a.elementor-column.elementor-col-33.elementor-top-column:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+dodajgas.mk###content > div.ast-container > div.elementor.elementor-2:first-child > div.elementor-inner > div.elementor-section-wrap > section.elementor-element.elementor-element-a2f1071.elementor-section-boxed.elementor-section-height-default.elementor-section.elementor-top-section:nth-child(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-element.elementor-element-6c86f6e.elementor-column.elementor-col-66.elementor-top-column:first-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-4332618.elementor-hidden-tablet.elementor-hidden-phone.elementor-widget.elementor-widget-html:last-child > div.elementor-widget-container > center
+dodajgas.mk###secondary > div.sidebar-main
+dodajgas.mk###single-post-dodajgas > div.row.clearfix:nth-child(2) > div.col-md-8.single-post-main-content:first-child > a:nth-child(13) > img
+dodajgas.mk###single-post-dodajgas > div.row.clearfix:nth-child(2) > div.col-md-8.single-post-main-content:first-child > a:nth-child(18) > img
+dodajgas.mk###single-post-dodajgas > div.row.clearfix:nth-child(2) > div.col-md-8.single-post-main-content:first-child > div.code-block.code-block-11:first-child
+dodajgas.mk###single-post-dodajgas > div.row.clearfix:nth-child(2) > div.col-md-8.single-post-main-content:first-child > div.code-block.code-block-12:nth-child(11) > iframe
+dodajgas.mk###single-post-dodajgas > div.row.clearfix:nth-child(2) > div.col-md-8.single-post-main-content:first-child > div.code-block.code-block-12:nth-child(16) > iframe
+drmitov.mk###elementor-popup-modal-13018
+duma.mk###block-86
+ekipa.mk###clever_25522_pushdown_img
+ekipa.mk###custom_html-2
+ekipa.mk###custom_html-3 > div.textwidget.custom-html-widget
+ekipa.mk###page-573762 > div.row > div.col-sm-12.clearfix:nth-child(2)
+ekran.mk###check-also-box
+ekran.mk###sidebar
+emagazin.mk###main > div.penci-container:last-child > div.penci-container__content.penci-con_sb2_sb1 > aside.widget-area.widget-area-1.penci-sticky-sidebar.penci-sidebar-widgets:last-child
+emagazin.mk##.header__banner
+emiter.com.mk###block-block-1
+exclusive.mk###main > div.vc_row.wpb_row.vc_row_63761856.vc_row-fluid.penci-pb-row:nth-child(3) > div.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.vc_column-inner.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.wpb_wrapper > div.penci-container-vc.penci-container-fluid.penci-container-width-1400.penci_vc_sticky_sidebar.penci-vc_sidebar-right:first-child > div.penci-container__content.penci-con_sb2_sb1 > div.penci-content-main.penci-container.penci-sidebar-right:first-child > div.theiaStickySidebar > div.wpb_single_image.wpb_content_element.vc_align_left:nth-child(2)
+exclusive.mk###page > div.site-header-wrapper:first-child > div.header__top.header--s2:first-child > div.penci-container-fluid.header-top__container > div.header__banner:last-child > a > img
+exclusive.mk###penci-banner_box--65951 > div.penci-block_content:last-child > div.penci-promo-item.penci-banner-has-text > a.penci-promo-link:first-child
+exclusive.mk###penci-banner_box--65951 > div.penci-block_content:last-child > div.penci-promo-item.penci-banner-has-text > img.penci-image-holder.penci-banner-image.penci-lazy.attachment-full:last-child
+expres.mk##.td-a-rec, .td-a-rec-id-sidebar, .tdi_3_f21, .td_block_template_1
+fokus.mk###fokus-216909822 > a.notrack > img
+fokus.mk###fokus-992668010
+fokus.mk###main > div.elementor.elementor-262283 > div.elementor-inner > div.elementor-section-wrap > section.penci-section.penci-enSticky.penci-structure-33.elementor-section.elementor-top-section.elementor-element.elementor-element-dcd6aef.elementor-section-full_width.elementor-section-height-default:last-child > div.elementor-container.elementor-column-gap-wide > div.elementor-row > div.penci-ercol-25.penci-ercol-order-3.penci-sticky-sb.penci-sidebarSC.elementor-column.elementor-col-25.elementor-top-column.elementor-element.elementor-element-e81f11f:last-child > div.theiaStickySidebar.elementor-column-wrap.elementor-element-populated
+fokus.mk###sidebar
+fokus.mk##.advads-background
+fokus.mk##.fokus-in-articlep2
+fokus.mk##.fokus-popup, .fokus-layer, .fokus-layer-onload, .advads-has-background, .advads-background-click-close, .advads-close, .is-sticky
+frontline.mk###text-11 > div.textwidget > div.a-single.a-14 > a.gofollow > img.lazyloaded:first-child
+frontline.mk###text-14 > div.textwidget > table.widefat.mce-item-table > tbody > tr > td > div.a-single.a-17 > a > img.lazyloaded:first-child
+frontline.mk###text-15 > div.textwidget > table.widefat > tbody > tr > td > div.a-single.a-20 > a > img.lazyloaded:first-child
+frontline.mk###text-8
+frontline.mk##.jeg_ad, .jeg_ad_module, .jnews_module_59_20_628cc13a2c892
+frontline.mk##div.jeg_viewport:nth-child(2) > div.jeg_main:nth-child(4) > div.jeg_container > div.jeg_content:first-child > div.jeg_vc_content > div.row.vc_row:nth-child(4) > div.jeg-vc-wrapper > div.wpb_column.jeg_column.vc_column_container.vc_col-sm-4.jeg_sticky_sidebar.jeg_sidebar:last-child > div.jegStickyHolder > div.theiaStickySidebar > div.jeg_wrapper.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1639153726635:nth-child(3) > div.wpb_wrapper > table.widefat > tbody > tr > td > div.a-single.a-17 > a > img.lazyloaded:first-child
+frontline.mk##div.jeg_viewport:nth-child(2) > div.jeg_main:nth-child(4) > div.jeg_container > div.jeg_content:first-child > div.jeg_vc_content > div.row.vc_row:nth-child(4) > div.jeg-vc-wrapper > div.wpb_column.jeg_column.vc_column_container.vc_col-sm-4.jeg_sticky_sidebar.jeg_sidebar:last-child > div.jegStickyHolder > div.theiaStickySidebar > div.jeg_wrapper.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1652371398437:first-child > div.wpb_wrapper > div.a-single.a-19 > a.gofollow > img.lazyloaded:first-child
+frontline.mk##div.jeg_viewport:nth-child(2) > div.jeg_main:nth-child(4) > div.jeg_container > div.jeg_content:first-child > div.jeg_vc_content > div.row.vc_row:nth-child(4) > div.jeg-vc-wrapper > div.wpb_column.jeg_column.vc_column_container.vc_col-sm-4.jeg_sticky_sidebar.jeg_sidebar:last-child > div.jegStickyHolder > div.theiaStickySidebar > div.jeg_wrapper.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1653319931011:nth-child(2) > div.wpb_wrapper > div.a-single.a-20 > a > img.lazyloaded:first-child
+gol.mk###banner-sidebar
+gol.mk###banner-sidebar-2 > ins:first-child
+gostivarpress.mk###mvp-feat1-wrap > div.mvp-feat1-right-out.left.relative > div.mvp-feat1-right-in.gostivarPress:first-child > div.mvp-feat1-main.left.relative > div.mvp-feat1-mid-wrap.gostivarPress.left.relative:last-child > div.mvp-feat1-list-ad.gostivarPress.left.relative
+gostivarpress.mk###mvp-foot-logo > a > img.lazyloaded:first-child
+gostivarpress.mk###mvp-side-wrap
+gostivarpress.mk###revive-0-0 > a:first-child > img
+gostivarpress.mk###revive-0-1 > a:first-child > img
+gostivarpress.mk###revive-0-2 > a:first-child > img
+gostivarpress.mk###revive-0-6 > a:first-child > img
+gostivarpress.mk###revive-0-7 > a:first-child > img
+gostivarpress.mk##.clever_57897_pushdown
+gotvi.mk###sidebar > div.adv_side:first-child
+gradina.mk###check-also-box
+gradina.mk###sidebar
+grid.mk###gestureZone > div.row:nth-child(3) > aside.sidebar-left:first-child > h2.latest-news-title:nth-child(2)
+grid.mk###gestureZone > div.row:nth-child(3) > aside.sidebar-left:first-child > iframe:last-child
+hashtag.mk###fblikebg
+hashtag.mk###fblikepop
+hashtag.mk##.widget, .widget_media_image
+hitportal.com.mk###td-outer-wrap > div.td-outer-container > div.td-container.td-post-template-default:nth-child(2) > div.td-container-border > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar
+hitportal.com.mk###tdi_42_70d > div.vc_row.tdi_43_009.wpb_row.td-pb-row > div.vc_column.tdi_51_610.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.wpb_wrapper.td_block_wrap.vc_widget_sidebar.tdi_53_ddd
+hitportal.com.mk##.td-a-rec, .td-a-rec-id-content_top, .tdi_35_dd6, .td_block_template_1
+https://ads.ekipa.mk/www/images/847e05cdbdd6ab5b56b1d2251deff85e.jpg$domain=ekipa.mk
+https://adserver.mk
+https://hybrid.mk/wp-content/uploads/2022/01/Sinalco-das-original-728x90-Hybread.gif$domain=hybrid.mk
+https://kukuriku.com.mk/wp-content/uploads/2021/08/NEW-CONTINENT-720x90-1.gif$domain=kukuriku.com.mk
+https://mojzbor.com/wp-content/uploads/2021/05/BoGrad.jpg$domain=mojzbor.com
+https://ohridpress.com.mk/wp-content/uploads/2021/11/be1-marketingw.png$domain=ohridpress.com.mk
+https://porta.mk/wp-content/uploads/2019/07/AtvaBaner.gif$domain=porta.mk
+https://tas-mk.toboads.com/ads.php?b=1&rq=5d0a434e-c994-c14f-a9c5-3862f447d932&vt=39b893b2-f547-479f-a927-93456c2e6394&isf=false&tm=0&af=728x90&fv=undefined&nw=0&co=1&eid=g1438e742c9&vh=758&vw=1536&asc=0&srf=https%3A%2F%2Finovativnost.mk%2F2022%2F05%2F20%2F%25d0%25bd%25d0%25b0%25d0%25b3%25d1%2580%25d0%25b0%25d0%25b4%25d0%25b5%25d0%25bd%25d0%25b8-%25d0%25bd%25d0%25b0%25d1%2598%25d0%25b4%25d0%25be%25d0%25b1%25d1%2580%25d0%25b8%25d1%2582%25d0%25b5-%25d0%25bc%25d0%25b5%25d0%25bd%25d0%25b0%25d1%259f%25d0%25b5%25d1%2580%25d0%25b8-%25d0%25b7%25d0%25b0-%25d1%2587%25d0%25be%25d0%25b2%2F&rf=https%3A%2F%2Finovativnost.mk%2F2022%2F05%2F23%2F%25d0%25b3%25d1%2580%25d1%2586%25d0%25b8%25d1%2598%25d0%25b0-%25d1%2581%25d0%25b5-%25d0%25bf%25d0%25be%25d0%25b4%25d0%25b3%25d0%25be%25d1%2582%25d0%25b2%25d1%2583%25d0%25b2%25d0%25b0-%25d0%25b7%25d0%25b0-%25d0%25b8%25d1%2581%25d0%25ba%25d0%25bb%25d1%2583%25d1%2587%25d1%2583%25d0%25b2%25d0%25b0%25d1%259a%25d0%25b5-%25d0%25bd%2F&loc=eq-srf&rn=aba12545-499d-82d2-1d34-0e57a30be132&ct=dbd9d046-77cf-affa-b091-49ec760ad481&c=hA_c_0_0f695e44&ah=0&L=9b4f61c5-1615-427e-9d7b-a74f3f4eb1ad&afs=undefined&sck=f03e3048c1b5666a22d2b71efd9e705c07b5d4e2&$domain=inovativnost.mk
+hybrid.mk##.theiaStickySidebar
+hybrid.mk##div.jeg_viewport:nth-child(2) > div.elementor.elementor-10:nth-child(4) > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-112176c.elementor-section-boxed.elementor-section-height-default:nth-child(4) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-c76b263:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-97264cf.elementor-widget.elementor-widget-sidebar:last-child > div.elementor-widget-container
+hybrid.mk##div.jeg_viewport:nth-child(2) > div.elementor.elementor-10:nth-child(4) > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-112176c.elementor-section-boxed.elementor-section-height-default:nth-child(4) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-66.elementor-top-column.elementor-element.elementor-element-b725f94:first-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-e1e795c.elementor-widget.elementor-widget-image:last-child > div.elementor-widget-container
+hybrid.mk##div.jeg_viewport:nth-child(2) > div.post-wrapper:nth-child(4) > div.post-wrap:first-child > div.jeg_main:first-child > div.jeg_container > div.jeg_content.jeg_singlepage > div.container > div.row:nth-child(2) > div.jeg_sidebar.jeg_sticky_sidebar.col-md-4:last-child
+idividi.com.mk###slidebox
+index.mk###main > div.penci-container > div.penci-container__content.penci-con_sb2_sb1 > aside.widget-area.widget-area-1.penci-sticky-sidebar.penci-sidebar-widgets:last-child > div.theiaStickySidebar
+index.mk###main > div.vc_row.wpb_row.vc_row_35915630.vc_row-fluid.penci-pb-row:first-child > div.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.vc_column-inner.wpb_column.vc_column_container.vc_col-sm-12.penci-col-12 > div.wpb_wrapper > div.penci-container-vc.penci-container-fluid.penci-container-width-1400.penci_vc_sticky_sidebar.penci-vc_two-sidebar:last-child > div.penci-container__content.penci-con_sb2_sb1 > div.widget-area.widget-area-1:last-child
+infomax.mk###block-6 > div.wp-container-3.wp-block-group > div.wp-block-group__inner-container > div.wp-block-image:first-child > figure.aligncenter.size-large > img.wp-image-1453
+infomax.mk###block-8 > div.wp-block-image > figure.aligncenter.size-full > a > img.wp-image-556721
+infomax.mk###post-579209 > div.col-md-12:nth-child(2) > div.row:last-child > div.col-md-9:first-child > div.entry-content.post-inside:last-child > div.col-md-12:nth-child(4) > a > img
+infomax.mk##button:nth-child(20)
+inovativnost.mk###\36 488
+inovativnost.mk###\36 489
+inovativnost.mk###\36 498 > div.wppasrotate.paszoneholder-6498 > div.pasli.pasli-36263 > a:nth-child(3)
+inovativnost.mk##.pasli-13737.pasli
+inovativnost.mk##.pasli-19292.pasli
+inovativnost.mk##.pasli-33194.pasli
+inovativnost.mk##.pasli-89815.pasli
+inovativnost.mk##.pasli-89970.pasli
+inovativnost.mk##.pasli-90788.pasli
+inovativnost.mk##.paszone-6451.wppaszone
+inovativnost.mk##.td-more-articles-box, .td-front-end-display-block
+inovativnost.mk##.wppaslink
+inovativnost.mk##aside.wppaszone.widget.td_block_template_1:nth-of-type(5)
+inpress.mk###custom_html-3
+inpress.mk###custom_html-4
+inpress.mk###divAdLeft
+inpress.mk###divAdRight
+inpress.mk###facebookpopup-fanback
+inpress.mk###facebookpopup-fanbox
+inpress.mk##.widget_fearless_responsive_image_ad
+instore.mk###revive-0-1 > a:first-child > img
+instore.mk##.heder_baner, .revive
+ipon.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > div.td-a-rec.td-a-rec-id-sidebar.tdi_5_137.td_block_template_4:nth-child(2)
+izvoz.mk##.td-a-rec, .td-a-rec-id-sidebar, .tdi_10_434, .td_block_template_4
+joci.mk###content > div.page-content:first-child > div.elementor.elementor-226:first-child > section.elementor-section.elementor-top-section.elementor-element.elementor-element-f1e375c.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-2c98cb0:last-child > div.elementor-widget-wrap.elementor-element-populated > section.elementor-section.elementor-inner-section.elementor-element.elementor-element-70c923f.elementor-hidden-tablet.elementor-hidden-mobile.elementor-section-boxed.elementor-section-height-default.elementor-sticky > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-inner-column.elementor-element.elementor-element-4311bc3 > div.elementor-widget-wrap.elementor-element-populated
+joci.mk###content > div.page-content:first-child > div.elementor.elementor-226:first-child > section.elementor-section.elementor-top-section.elementor-element.elementor-element-f1e375c.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-ff936ab:first-child > div.elementor-widget-wrap.elementor-element-populated > section.elementor-section.elementor-inner-section.elementor-element.elementor-element-6f9d527.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-inner-column.elementor-element.elementor-element-d454784 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-195f9d4.elementor-widget.elementor-widget-image > div.elementor-widget-container
+joci.mk##.elementor-element-76f0e60.elementor-element.elementor-top-column.elementor-col-50.elementor-column > .elementor-element-populated.elementor-widget-wrap
+joci.mk##.elementor-element-c25d8eb.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+kanal5.com.mk###\35 31232 > div.content-wrapper > div.columns-wrapper > div.small-column:last-child > div.kanal5ad:first-child > a > img
+kanal5.com.mk###\35 31246 > div.content-wrapper > div.columns-wrapper > div.small-column:last-child > div.kanal5ad:first-child
+kanal5.com.mk###\35 31254 > div.content-wrapper > div.columns-wrapper > div.small-column:last-child > div.kanal5ad:first-child
+kanal5.com.mk###form1 > div.main-content:nth-child(5) > div.top-news:nth-child(3) > div.content-wrapper > div.columns-wrapper > div.small-column.left:first-child > div.kanal5ad:first-child
+kapital.mk###mvp-leader-wrap > a > img.mvp-leader1
+kapital.mk##.gofollow
+ktv.mk###iframe
+kukuriku.com.mk###post-90946 > div.td-post-content:nth-child(2) > div.td-a-rec.td-a-rec-id-content_inline.td_uid_2_628d16b78568e_rand.td_block_template_1:nth-child(8) > div.td-all-devices > a > img.td-animation-stack-type0-2
+kukuriku.com.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar
+kukuriku.com.mk##.td-header-rec-wrap
+kukuriku.com.mk##.vc_widget_sidebar
+kumanovonews.mk###topSidebar
+kumanovonews.mk##.ad1212
+kumanovonews.mk##div.frontPageSection:nth-child(19) > div.ad300:last-child > div.ad300:nth-child(2) > a:first-child > img
+kumanovonews.mk##div.vestiFPsection:nth-child(11) > div.w300:last-child
+kumanovskimuabeti.mk###clever-56470-top-scroll-shadow
+kurir.mk##section.section-insider:nth-child(4)
+lady.mk###contentwrap > div.span-8.last:last-child > div.sidebar > ul:last-child
+libertas.mk###check-also-box
+lider.mk##.easyads
+lider.mk##.monadplug
+lider.mk##.sidebar-ad
+lokalno.mk###clever-57103-top-scroll
+majkatiitatkoti.com###colormag_300x250_advertisement_widget-9 > div.advertisement_300x250 > div.advertisement-content > a.single_ad_300x250 > img
+majkatiitatkoti.com###custom_html-28 > div.textwidget.custom-html-widget > a.desktop_reklama:first-child > img
+makfudbal.mk###clever_51658_pushdown_img
+makfudbal.mk###mvp-side-wrap > div.mvp-widget-ad.left.relative:first-child
+makpress.mk##div.wrapper:nth-child(2) > div.container:nth-child(2) > div.row:first-child > div.col-lg-16.col-md-16.col-sm-16.banner-outer:last-child > div.row > div.col-lg-7.col-md-7.col-sm-4:last-child > div.row > div.col-md-16.col-lg-10:last-child
+makpress.mk##div.wrapper:nth-child(2) > div.container:nth-child(2) > section:nth-child(2) > div.row > div.col-lg-5.col-md-5.col-sm-4.bt-space.hidden-xs:last-child > div.bordered > div.row:first-child
+marketing365.mk##.gofollow
+marketing365.mk##.jeg_ad, .jeg_article, .jnews_article_top_ads
+marketing365.mk##.theiaStickySidebar
+marketing365.mk##div.jeg_viewport:nth-child(2) > div.jeg_main:nth-child(4) > div.jeg_container > div.jeg_content:first-child > div.jeg_vc_content > div.row.vc_row.wpb_row.vc_row-fluid:first-child > div.jeg-vc-wrapper > div.wpb_column.jeg_column.vc_column_container.vc_col-sm-12.jeg_main_content
+marketing365.mk##div.jeg_viewport:nth-child(2) > div.jeg_main:nth-child(4) > div.jeg_container > div.jeg_content:first-child > div.jeg_vc_content > div.row.vc_row.wpb_row.vc_row-fluid:nth-child(5) > div.jeg-vc-wrapper > div.wpb_column.jeg_column.vc_column_container.vc_col-sm-4.vc_custom_1572200829257.jeg_main_content:last-child > div.jeg_wrapper.wpb_wrapper > div.wpb_widgetised_column.wpb_content_element > div.wpb_wrapper
+marketing365.mk##div.jeg_viewport:nth-child(2) > div.jeg_main:nth-child(4) > div.jeg_container > div.jeg_content:first-child > div.jeg_vc_content > div.row.vc_row.wpb_row.vc_row-fluid:nth-child(7) > div.jeg-vc-wrapper > div.wpb_column.jeg_column.vc_column_container.vc_col-sm-4.vc_custom_1572200908063.jeg_main_content:last-child > div.jeg_wrapper.wpb_wrapper
+markukule.mk###td-outer-wrap > div.td-header-wrap.td-header-style-1:first-child > div.td-banner-wrap-full.td-logo-wrap-full.td-container-wrap:nth-child(2) > div.td-container.td-header-row.td-header-header > div.td-header-sp-recs:last-child > div.td-header-rec-wrap
+markukule.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child
+markukule.mk###td_uid_1_628d00d257134 > div.vc_row.td_uid_48_628d00d25717f_rand.wpb_row.td-pb-row > div.vc_column.td_uid_49_628d00d25733d_rand.wpb_column.vc_column_container.td-pb-span12 > div.wpb_wrapper
+markukule.mk###td_uid_8_628d00d26cebc > div.vc_row.td_uid_57_628d00d26cf00_rand.td-ss-row.wpb_row.td-pb-row > div.vc_column.td_uid_67_628d00d29841e_rand.wpb_column.vc_column_container.td-pb-span4:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_wrap.vc_widget_sidebar.td_uid_68_628d00d2985e3_rand
+maskimagazin.faktor.mk###fblikebg
+maskimagazin.faktor.mk###fblikepop
+maskimagazin.faktor.mk###main-container > div.row:last-child > aside.col-lg-4.sidebar.sidebar--right:last-child > div.widget.widget_media_image:first-child
+media.mk###tdi_38 > div.vc_row.tdi_39.wpb_row.td-pb-row.tdc-row-content-vert-center > div.vc_column.tdi_44.wpb_column.vc_column_container.tdc-column.td-pb-span8:last-child
+mensclub.mk###check-also-box
+mensclub.mk###sidebar > div.theiaStickySidebar
+meta.mk##div.td-more-articles-box.td-front-end-display-block:nth-child(9)
+mk.tv21.tv###tdi_55 > div.vc_row.tdi_56.wpb_row.td-pb-row > div.vc_column.tdi_58.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_59.td_block_template_1:first-child
+mk.tv21.tv###tdi_80 > div.vc_row.tdi_81.wpb_row.td-pb-row > div.vc_column.tdi_101.wpb_column.vc_column_container.tdc-column.td-pb-span3.td-is-sticky:last-child
+mk.tv21.tv##.td-a-ad, .id_inline_ad0, .id_ad_content-horiz-center
+mms.mk##.code-block, .code-block-10
+mms.mk##.header__banner
+mnet.mk###block-5
+mnet.mk###block-7
+mnet.mk###sticky-wrapper > div.sticky-sidebar > section.widget.advads-widget:nth-child(4) > a > img.no-lazyload
+mnet.mk###sticky-wrapper > div.sticky-sidebar > section.widget.advads-widget:nth-child(5)
+moirecepti.mk###popup
+moirecepti.mk###popup-overlay
+mojzbor.com###post-22455 > div.td-container:last-child > div.td-container-border > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > div.td-a-rec.td-a-rec-id-custom_ad_1.tdi_9.td_block_template_1:nth-child(5)
+mojzbor.com###td-outer-wrap > div.td-outer-container > div.td-header-container.td-header-wrap.td-header-style-1:first-child > div.td-header-row.td-header-header:nth-child(2) > div.td-header-sp-rec:last-child > div.td-header-ad-wrap.td-ad-m.td-ad-tp.td-ad-p > div.td-a-rec.td-a-rec-id-header.tdi_1.td_block_template_1 > div.td-all-devices > a > img
+motika.mk###content > article > center:nth-child(3)
+motika.mk###header > div.container > div.headnote:last-child > div.setech:nth-child(2)
+motika.mk###sidebar
+mtm.mk###clever-51518-top-scroll
+netpress.com.mk##.td-a-rec-id-custom_ad_1
+netpress.com.mk##.td-a-rec-id-custom_ad_4
+netpress.com.mk##.td-ss-main-sidebar
+netpress.com.mk##.td_uid_15_628cc15ea73ad_rand
+nezavisen.mk###primary > div.d-flex:first-child > div.col-span3.home-right.col-sidebar-lg:last-child
+nmd.mk###td-outer-wrap > div.tdc-header-wrap:first-child > div.td-header-wrap.td-header-style-2 > div.td-banner-wrap-full.td-container-wrap:last-child > div.td-container.td-header-row.td-header-header > div.td-header-sp-recs:last-child
+nmd.mk###tdi_17 > div.vc_row.tdi_18.wpb_row.td-pb-row > div.vc_column.tdi_56.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.wpb_wrapper.td_block_wrap.vc_widget_sidebar.tdi_58
+nmd.mk##.td-ss-main-sidebar
+novamakedonija.com.mk##.td-more-articles-box, .td-front-end-display-block
+novatv.mk###main > div.row.u-items--center.single-content.aligncenter.single-no-sidebar > div.column.single-post-column > center:nth-child(2)
+ohrid1.com###custom_html-3
+ohrid1.com###custom_html-4 > div.textwidget.custom-html-widget > iframe
+ohrid1.com###newsmax_ruby_sidebar_widget_advertising-11 > div.widget-ad-content-wrap.clearfix > div.widget-ad-image > a.widget-ad-link > img.ads-image
+ohrid1.com###newsmax_ruby_sidebar_widget_advertising-12 > div.widget-ad-content-wrap.clearfix > div.widget-ad-image > a.widget-ad-link > img.ads-image
+ohrid1.com###newsmax_ruby_sidebar_widget_advertising-2 > div.widget-ad-content-wrap.clearfix > div.widget-ad-image > img.widget-ad-image-url
+ohrid1.com###newsmax_ruby_sidebar_widget_advertising-8 > div.widget-ad-content-wrap.clearfix > div.widget-ad-image > a.widget-ad-link > img.ads-image
+ohrid1.com###ruby-site > div.header-wrap.header-style-2:first-child > aside.header-ad-outer:last-child > div.ruby-container
+ohridnet.com###Mod223 > div.ja-box-ct.clearfix
+ohridnet.com###Mod224 > div.ja-box-ct.clearfix
+ohridnet.com###Mod300 > div.ja-box-ct.clearfix > div.custom
+ohridnet.com###ja-content-mass-top > div.ja-blocktab > div.ja-blocktab-content.clearfix > div.custom:first-child
+ohridnet.com###ja-right
+ohridnet.com###ja-topsl11 > div.main.clearfix > div.ja-box-wrap.column.ja-box-right:nth-child(2) > div.ja-box.clearfix
+ohridnews.com###backgroundPasPopup
+ohridnews.com###content > div.wrap > div.wrap-inner > div.part.part-ad.part-fullwidth-ad.ads.ads-horizontal.alooooo:nth-child(4)
+ohridnews.com###content > div.wrap > div.wrap-inner > div.part.part-ad.part-fullwidth-ad.ads.ads-horizontal:nth-child(3)
+ohridnews.com##.widget, .wppaszone
+ohridpress.com.mk###body-inner > div.home-main-content.clearfix:nth-child(4) > div.main-content-wrap > div.main-content-inner > div.elementor.elementor-91221 > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-cde9854.elementor-section-boxed.elementor-section-height-default:nth-child(3) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-d40f0d3:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+ohridpress.com.mk###body-inner > div.home-main-content.clearfix:nth-child(4) > div.main-content-wrap > div.main-content-inner > div.elementor.elementor-91221 > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e619bee.elementor-section-boxed.elementor-section-height-default:nth-child(7) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-8075ddf:last-child > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap
+ohridpress.com.mk###body-inner > div.home-main-content.clearfix:nth-child(4) > div.main-content-wrap > div.main-content-inner > div.elementor.elementor-91221 > div.elementor-inner > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e899459.elementor-section-boxed.elementor-section-height-default:nth-child(4)
+ohridpress.com.mk###body-inner > header.header.site-header.headlayout2:first-child > div.container > div.row > div.col-md-9.col-sm-12:last-child
+ohridpress.com.mk###news247_ads_banner_widget-10 > div.themewing-ads-banner-image
+ohridpress.com.mk###news247_ads_banner_widget-11 > div.themewing-ads-banner-image > a > img.img-responsive
+ohridpress.com.mk###text-2 > div.textwidget > div.the_wrapper > div.audio6_html5.whiteControllers > div.ximage:nth-child(4)
+opserver.mk###custom_html-2 > div.textwidget.custom-html-widget
+opserver.mk###custom_html-6 > div.textwidget.custom-html-widget > iframe
+opserver.mk###text-126
+opserver.mk###text-138
+opserver.mk###text-139 > div.textwidget > p:first-child
+opserver.mk###text-143
+opserver.mk###text-149 > div.textwidget
+opserver.mk###text-151
+opserver.mk###text-152
+opserver.mk###text-153 > div.textwidget > p:first-child
+opserver.mk###text-154
+opserver.mk###text-155
+opserver.mk###text-156
+opserver.mk###text-160
+opserver.mk###text-161
+opserver.mk###text-164
+opserver.mk###text-166
+opserver.mk###text-167
+opserver.mk###text-168
+opserver.mk###text-61 > div.textwidget > p:first-child > img:last-child
+opserver.mk##.mh-col-2-3, .mh-header-widget-2
+opserver.mk##.mh-content-ad
+opserver.mk##.sg-current-popup-12
+opserver.mk##.sg-popup-content, .sg-popup-content-12, .sg-animated
+opserver.mk##.sg-popup-overlay, .sg-popup-overlay-9, .sgcboxOverlayBg, .sg-popup-overlay-12
+panacea.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget.widget_text:nth-child(2)
+panacea.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap.td-container-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row:first-child > div.wpb_column.vc_column_container.td-pb-span12
+panacea.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap.td-container-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row:nth-child(2) > div.wpb_column.vc_column_container.td-pb-span4:last-child > div.vc_column-inner > div.wpb_wrapper > div.td-a-rec.td-a-rec-id-custom_ad_3.td_uid_3_628b0ef2e9832_rand.td_block_template_1:first-child
+panika.be##.panikaad
+pazar3.mk###div-gpt-ad-1410824517263-4
+pazar3.mk##div.website-wrapper:nth-child(5) > header.nav-header:nth-child(3) > div.container:nth-child(2)
+pazar5.mk###SC_TBlock_405609
+pazar5.mk##div.container:nth-child(5) > section:nth-child(9) > div.col-sm-8:nth-child(2) > div.panel.panel-default:last-child > div.panel-body > div:nth-child(11)
+pedijatar.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_6.widget.widget_text:nth-child(2)
+pedijatar.mk##.adv-link
+plusinfo.mk###sidebar-footer-1
+popularno.mk###div-gpt-ad-1556738731271-0
+porta.mk###custom_html-12
+porta.mk###mvp-feat5-wrap > div.mvp-feat5-side-out.left.relative > div.mvp-feat5-side-wrap.left.relative:last-child > div.mvp-feat1-list-ad.left.relative:first-child > a:last-child > img
+porta.mk##.code-block, .code-block-3
+porta.mk##.porta-rotacija
+porta3.mk###a545dc26
+porta3.mk###ads300_250-widget-3 > div.widget-container:last-child
+porta3.mk###ads300_250-widget-3 > div.widget-top:first-child
+porta3.mk###text-html-widget-13 > div.widget-container:last-child
+porta3.mk###text-html-widget-13 > div.widget-top:first-child
+porta3.mk###text-html-widget-27 > div.widget-container:last-child
+porta3.mk###text-html-widget-27 > div.widget-top:first-child
+pressingtv.mk##.block, .block--advertising, .block--advertising-header
+pressingtv.mk##.block__advertising-content
+prizma.mk###masthead > nav.navbar.navbar-default:last-child > div.container > div.main-menu-border-wrap > div.row:first-child > div.col-sm-8.col-md-9.hidden-xs.hidden-sm:nth-child(2)
+puls24.mk##.adv
+puls24.mk##.adv_content
+puls24.mk##.theiaStickySidebar
+radar.mk##.advertisement-content
+reklama5.mk###adDiv
+reklama5.mk###div-gpt-ad-1502972380975-0
+reklama5.mk###div-gpt-ad-1502980424015-0
+republika.mk###post-506138 > div.post-container:last-child > div.row.pb-5 > div.sidebar.col.mt-5.mt-lg-0.ml-xl-5:last-child
+republika.mk##.sidebar-inner, .text-center
+ringeraja.mk###PopUpPregnancyTeaserContainerOutter
+ringeraja.mk###main > div.main-news:nth-child(3) > div.column-two:last-child
+ringeraja.mk###main > div.twocolumns:last-child > div.col-2:last-child > div.image-box:nth-child(2)
+ringeraja.mk###main > div.twocolumns:last-child > div.col-2:last-child > div:nth-child(5)
+ringeraja.mk###sidebar > div:nth-child(3) > a
+ringeraja.mk##div.row-full:nth-child(22) > div:last-child
+samorakomet.mk##.elementor-section-height-default.elementor-section-content-middle.elementor-section-full_width.elementor-element-26dec27.elementor-element.elementor-inner-section.elementor-section > .elementor-column-gap-default.elementor-container
+samorakomet.mk##.elementor-widget-image.elementor-widget.golem_baner.elementor-element-ff53239.elementor-element > .elementor-widget-container
+samorakomet.mk##div.elementor.elementor-145.elementor-location-single.post-33.page.type-page.status-publish.hentry:nth-child(10) > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-aa71c2f.elementor-section-full_width.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-dbd5e6f:last-child > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-e39a62d.elementor-hidden-phone.elementor-widget.elementor-widget-image.elementor-sticky:last-child > div.elementor-widget-container > div.elementor-image > a > img.attachment-large.size-large
+sdk.mk###Label1
+sdk.mk###Label7
+sdk.mk##.section, .main-sidebar, .sticky-inside
+sezahrana.mk##.adv-link
+sezahrana.mk##.sezah-target
+sitel.com.mk###block-system-main > div.content > div.page-super-wrapper > div.main-content-wrapper:nth-child(4) > div.container.main-content-container > div.row > div.col-md-4.col-xs-12.sidebar-right:last-child
+skopje1.mk##.alignnone, .size-full, .wp-image-171826
+skopje1.mk##.code-block, .code-block-1
+skopje24.com.mk###custom_html-25
+skopje24.com.mk##.td-a-rec, .td-a-rec-id-content_bottom
+skopje24.com.mk##.textwidget, .custom-html-widget
+skopskoeho.mk##.size-full.attachment-full.wp-image-106887.image
+skopskoeho.mk##.td-visible-all
+skopskoeho.mk##.td-visible-desktop
+slobodenpecat.mk###page > div.banner-sticky_desktop.penci-container-fluid\>:nth-child(7) > iframe:last-child
+smart.sdk.mk###rpwe_widget-2
+smartportal.mk##.gofollow
+spektra.com.mk##div.ays-pb-modals.av_pop_modals_2:last-child
+sport1.mk###clever_58527_pushdown_img
+sport1.mk###sas_51705_iframe
+sport1.mk###sas_relDiv_10884978
+sportclub.mk##.adcode
+sportclub.mk##.widget-area
+sportm.mk###mvp-feat1-wrap > div.mvp-feat1-right-out.left.relative > div.mvp-feat1-right-wrap.left.relative:last-child > div.theiaStickySidebar > div.mvp-feat1-list-ad.left.relative:first-child
+sportm.mk###mvp_ad_widget-35
+sportm.mk##.code-block, .code-block-3
+sportm.mk##.monadplug-native-main-wrapper, .monadplug-native-main-wrapper-12129-101458-103277-01653389947297
+sportmanija.mk###sport-723758668 > a.adv-link > img
+sportmanija.mk###tdi_102 > div.vc_row.tdi_103.td-ss-row.wpb_row.td-pb-row > div.vc_column.tdi_123.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_124.td_block_template_1:nth-child(2)
+sportmanija.mk###tdi_104 > div.vc_row.tdi_105.wpb_row.td-pb-row > div.vc_column.tdi_110.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_111.td_block_template_1:nth-child(2)
+sportmanija.mk###tdi_107 > div.vc_row.tdi_108.wpb_row.td-pb-row > div.vc_column.tdi_137.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper > div.td-block.td-a-rec.td-a-rec-id-custom-spot.tdi_138.td_block_template_1:nth-child(2)
+sportmanija.mk###tdi_52 > div.vc_row.tdi_53.wpb_row.td-pb-row.tdc-row-content-vert-center > div.vc_column.tdi_58.wpb_column.vc_column_container.tdc-column.td-pb-span8:last-child
+sportmanija.mk##.sport-mobile-bottom-sticky, .sport-sticky
+sportmedia.mk##.monadplug-native-grid-container
+sportmedia.mk##.td_block_template_1.tdi_20_26c.td-a-rec-id-custom_ad_3.td-a-rec
+sportmedia.mk##div.backstretch:first-child
+sportski.mk###bdCheckAlso
+sportski.mk###custom_html-2 > div.widget-inner:last-child > div.textwidget.custom-html-widget
+sportski.mk###icegram_message_284033 > div.ig_content:last-child > div.ig_data:last-child > div.ig_body:nth-child(2) > div.ig_message > p:last-child > a > img.alignnone.wp-image-63914.size-full
+sportski.mk###pa_1x1_psbk_1653389311376
+sportski.mk###post-288644 > div.bdaia-post-content:nth-child(2) > div.code-block.code-block-15:nth-child(16)
+sportski.mk###post-288644 > div.bdaia-post-content:nth-child(2) > figure:nth-child(10)
+sportski.mk###post-288644 > div.bdaia-post-content:nth-child(2) > figure:nth-child(17)
+sportski.mk###post-288644 > div.bdaia-post-content:nth-child(2) > figure:nth-child(20)
+sportski.mk###post-288644 > div.bdaia-post-content:nth-child(2) > figure:nth-child(6)
+sportski.mk###revive-0-3 > a:first-child > img
+sportski.mk###taboola-sponsored-below-article
+sportski.mk##.bdaia-e3-container
+sportski.mk##div.code-block.code-block-11.ai-viewport-1.ai-center-h.ai-close.ai-close-fit:nth-child(2)
+srekja.mk##div.widget_vloma_wp_300px.widget
+stipka.mk###better-ads-4
+stipka.mk###bsac-915-1168289085
+stipka.mk###bsac-917-551526367 > a.bsac-link > img.bsac-image
+stipka.mk##.bsac-container, .bsac-type-image
+struja.mk###tdi_29 > div.vc_row.tdi_30.wpb_row.td-pb-row > div.vc_column.tdi_32.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_34.vc_row.vc_inner.wpb_row.td-pb-row.tdc-row-content-vert-bottom > div.vc_column_inner.tdi_39.wpb_column.vc_column_container.tdc-inner-column.td-pb-span6:nth-child(3) > div.vc_column-inner:last-child > div.wpb_wrapper > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_44.td_block_template_1:last-child
+strumicadenes.mk###header > div.header-middle.herald-header-wraper.hidden-xs.hidden-sm:nth-child(2) > div.container > div.row > div.col-lg-12.hel-el > div.hel-r.herald-go-hor:last-child
+strumicadenes.mk###herald-module-0-2
+strumicadenes.mk###mks_ads_widget-8
+strumicadenes.mk##.herald-ad, .herald-ad-above-single
+strumicadenes.mk##.herald-txt-module
+strumicadenes.mk##div.ad0:nth-child(2)
+strumicanet.com###sp-header-banner
+strumicanet.com###sp-right > div.sp-column.class2 > div.sp-module:first-child
+strumicanet.com###sppb-addon-1488254869659
+strumicanet.com###sppb-addon-1513441405907 > div.sppb-addon.sppb-addon-module
+studenti.mk###text-10 > div.textwidget > p
+studenti.mk##div.sumo-form-wrapper.listbuilder-popup:last-child
+stylist.mk###sidebar > div.widget:first-child > div.widget-ad > a > img
+supersport.mk###icegram_message_123303 > div.ig_content.ig_clear_fix:last-child > div.ig_data.ig_clear_fix:nth-child(2) > div.ig_message:last-child > p:first-child > a > img.alignnone.wp-image-63914.size-full
+supersport.mk###revive-0-0 > div > a:first-child
+supersport.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > div.td-a-rec.td-a-rec-id-custom_ad_4.tdi_7.td_block_template_1:first-child
+supersport.mk##.td_block_template_1.tdi_17.td-a-rec-id-header.td-a-rec
+supersport.mk##.td_block_template_1.tdi_2.td-a-rec-id-content_inline.td-a-rec
+supersport.mk##.td_block_template_1.tdi_28.td-a-rec-id-custom_ad_4.td-a-rec
+supersport.mk##.td_block_template_1.tdi_3.td-a-rec-id-content_top.td-a-rec
+taratur.com###tdi_65 > div.vc_row.tdi_66.wpb_row.td-pb-row > div.vc_column.tdi_74.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.td-a-rec.td-a-rec-id-sidebar.tdi_76.td_block_template_1:nth-child(3) > span.td-adspot-title:nth-child(3)
+telma.com.mk###sgpb-popup-dialog-main-div-wrapper
+telma.com.mk##div.sgpb-theme-3-overlay.sgpb-popup-overlay-61795.sgpb-popup-overlay:last-child
+tera.mk###block-12
+tera.mk##.block-commercial
+think.mk###spu-3680
+think.mk###spu-bg-3680
+time.mk###ads_pane
+time.mk##.bar, .advert_pos
+turbo1.mk###custom_html-6 > div.textwidget.custom-html-widget > a > img
+turbo1.mk###custom_html-9 > div.textwidget.custom-html-widget > div > a > img.image
+turbo1.mk###masthead > div.bottom-header:last-child > div.sparkle-wrapper > div.header-ad-section:last-child
+tvpaket.com.mk###check-also-box
+tvpaket.com.mk###theme-header > div.header-content:nth-child(2) > div.e3lan.e3lan-top:nth-child(3) > a > img
+ubavinaizdravje.mk###content > div.layout-1-col.layout-no-sidebar > div.content-column > div.single-container.bs-vc-content > div.row.vc_row.wpb_row.vc_row-fluid:nth-child(3) > div.bs-vc-wrapper > div.naslovna-baneri.wpb_column.bs-vc-column.vc_column_container.vc_col-sm-3:last-child > div.bs-vc-wrapper.wpb_wrapper > div.atpvwfelo.atpvwfelo-align-center.atpvwfelo-column-1.atpvwfelo-float-center.atpvwfelo-clearfix.no-bg-box-model:first-child
+ubavinaizdravje.mk###content > div.layout-1-col.layout-no-sidebar > div.content-column > div.single-container.bs-vc-content > div.row.vc_row.wpb_row.vc_row-fluid:nth-child(3) > div.bs-vc-wrapper > div.naslovna-baneri.wpb_column.bs-vc-column.vc_column_container.vc_col-sm-3:last-child > div.bs-vc-wrapper.wpb_wrapper > div.atpvwfelo.atpvwfelo-align-center.atpvwfelo-column-1.atpvwfelo-float-center.atpvwfelo-clearfix.no-bg-box-model:last-child
+ubavinaizdravje.mk##.more-stories, .right, .more-stories-thumbnail-1, .active
+ubavinazasite.mk###post-22184 > div.td-container:last-child > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar
+ubavinazasite.mk##.td-all-devices
+ubavinazasite.mk##div.td-more-articles-box.td-front-end-display-block:nth-child(7)
+ulica.mk###clever_53878_pushdown_img
+ulica.mk###sidebar > div.theiaStickySidebar
+ulica.mk##.header-banner, .header-style-3
+ulica.mk##.monadplug-native-main-wrapper, .monadplug-native-main-wrapper-12247-101582-103455-01653412408844
+valandovo.mk###custom_html-2 > div.textwidget.custom-html-widget
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(17)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(18)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(3)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(5)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(9)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(3) > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(17)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(3) > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(18)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(3) > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(3)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(3) > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(5)
+vecer.press###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(3) > div.td-container > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_1.widget:nth-child(9)
+vecer.press###td_uid_2_628c0d7eede2b > div.vc_row.td_uid_2_628c0d7eede30_rand.wpb_row.td-pb-row > div.vc_column.td_uid_15_628c0d7f2403d_rand.pocetna-najgore.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child
+vecer.press###td_uid_2_628cbd16a621b > div.vc_row.td_uid_2_628cbd16a6220_rand.wpb_row.td-pb-row > div.vc_column.td_uid_15_628cbd16cf92e_rand.pocetna-najgore.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child
+vecer.press##.angwp_714483, ._ning_cont, .strack_bnr, ._ning_hidden, ._align_center, ._ning_visible
+vecer.press##.slide_1, .slide, .active
+vecer.press##div.td-more-articles-box.td-front-end-display-block:nth-child(10)
+vesnik.com###M531467ScriptRootC806233
+vesnik.com###__next > div.content-wrapper.p-0 > main.main-content:nth-child(2) > div.container.single-post > div.row:last-child > div.col-12.pt-3:first-child > a:last-child > a.close-btn
+vesnik.com###__next > div.content-wrapper.p-0 > main.main-content:nth-child(2) > div.container.single-post > div.row:last-child > div.col-md-4.col-12:last-child
+vesnik.com###__next > div.content-wrapper.p-0 > main.main-content:nth-child(2) > div.container.single-post > div.row:last-child > div.col-md-8.col-12.main-content.py-3:nth-child(4) > div:nth-child(8)
+vesnik.com###clever_59198_pushdown_img
+vesnik.com###monadplug-native-grid-container-12198-101534-103375
+vesnik.com##.clever_59198_pushdown
+vesnik.com##.mgbox
+vesnik.com##.mt-2, .banner, .banner-square, .ad-server-long
+vesnik.com##.spinner-wrapper, .rounded-circle
+vicoteka.mk###clever_55119_pushdown_img
+vistina.com.mk###main > section.section.section-top-vesti:nth-child(2) > div.container > div.row.row-1 > div.column-sidebar:last-child > div.col-xs-12
+vistina.com.mk###main > section.section.single-featured-news:first-child
+vistina.com.mk###sidebar > div.ad.sidebar-ad.rectangle-300x250:nth-child(2)
+vistina.com.mk##.code-block-1.code-block
+vistina.com.mk##.linker-ads
+vistina.com.mk##.monadplug-ads
+vocentar.com###sas_35757_iframe
+vocentar.com##.code-block, .code-block-3, .ai-viewport-1
+vocentar.com##.more-stories, .right, .more-stories-thumbnail-1, .active
+vocentar.com##.no-animation
+vocentar.com##.wpb_raw_code, .wpb_content_element, .wpb_raw_html
+webinko.mk###blog-ajax-load-more-container > div.infinty-loadmore-wrap.ajax-loader-current-url.mb-80 > div.row.digiqole-content:last-child > div.col-lg-4.col-md-12:last-child
+webinko.mk##div.body-inner-content:nth-child(10) > div.elementor.elementor-1878:nth-child(2) > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3282d3f.show-hidden-sec.elementor-section-boxed.elementor-section-height-default:last-child > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-3acf363 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-db50e21.elementor-hidden-phone.elementor-widget.elementor-widget-image:last-child
+webinko.mk##div.body-inner-content:nth-child(10) > div.elementor.elementor-1878:nth-child(2) > section.elementor-section.elementor-top-section.elementor-element.elementor-element-61505dd8.elementor-hidden-tablet.elementor-hidden-mobile.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1b831df5:last-child > div.elementor-widget-wrap.elementor-element-populated
+webinko.mk##div.body-inner-content:nth-child(10) > div.elementor.elementor-1878:nth-child(2) > section.elementor-section.elementor-top-section.elementor-element.elementor-element-6761a0.elementor-hidden-phone.show-hidden-sec.elementor-section-boxed.elementor-section-height-default:nth-child(4)
+www.avtomagazin.com.mk##.e-swiper-container.elementor-widget-wrap
+www.popularno.mk###div-gpt-ad-1556738927651-0
+www.popularno.mk##.mvp_ad_widget.mvp-side-widget
+www.slobodenpecat.mk##.clever_50837_pushdown
+zase.mk###form1 > div.main-content:last-child > div.columns-container.articles:last-child > section.right-column:last-child > div.zasead:first-child > a > img
+zase.mk###form1 > div.main-content:last-child > div.columns-container.articles:last-child > section.right-column:last-child > div.zasead:nth-child(3) > iframe
+zelenaberza.com.mk###content > div.tie-row.main-content-row > div.main-content.tie-col-md-8.tie-col-xs-12:first-child > div.stream-item.stream-item-above-post:first-child
+zelenaberza.com.mk###text-13
+zelenaberza.com.mk###text-16
+zelenaberza.com.mk###text-17
+zelenaberza.com.mk###text-html-widget-2
+zelenaberza.com.mk###theme-header > div.container.header-container:nth-child(2) > div.tie-row.logo-row > div.tie-col-md-8.stream-item.stream-item-top-wrapper:last-child
+zelenaberza.com.mk###tie-block_2109 > div.container-wrapper
+zenanazena.com##div.featherlight.fca_eoi_featherlight:last-child
+zenskimagazin.mk###main-container > div.row:last-child > aside.col-lg-4.sidebar.sidebar--right:last-child > div.widget.widget_media_image:first-child
+zoom.mk###tdi_13 > div.vc_row.tdi_14.td-ss-row.wpb_row.td-pb-row > div.vc_column.tdi_49.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child
+zoom.mk##.td-ss-main-sidebar
+zurnal.mk###tdi_110 > div.vc_row.tdi_111.wpb_row.td-pb-row > div.vc_column.tdi_132.wpb_column.vc_column_container.tdc-column.td-pb-span3.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_142.vc_row.vc_inner.wpb_row.td-pb-row:nth-child(3) > div.vc_column_inner.tdi_144.wpb_column.vc_column_container.tdc-inner-column.td-pb-span12:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_single_image.td_block_wrap.vc_single_image.tdi_145.td-single-image-.td-pb-border-top.td_block_template_1 > a.td_single_image_bg:first-child
+zurnal.mk###tdi_154
+zurnal.mk###tdi_193 > div.vc_row.tdi_194.wpb_row.td-pb-row
+zurnal.mk###tdi_198 > div.vc_row.tdi_199.wpb_row.td-pb-row > div.vc_column.tdi_214.wpb_column.vc_column_container.tdc-column.td-pb-span3.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.wpb_wrapper.td_block_single_image.td_block_wrap.td-no-img-custom-url.vc_single_image.tdi_223.td-single-image-.td-pb-border-top.td_block_template_1:nth-child(3)
+zurnal.mk###tdi_232 > div.vc_row.tdi_233.wpb_row.td-pb-row > div.vc_column.tdi_235.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_237.vc_row.vc_inner.wpb_row.td-pb-row > div.vc_column_inner.tdi_239.wpb_column.vc_column_container.tdc-inner-column.td-pb-span12:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_single_image.td_block_wrap.vc_single_image.tdi_240.td-single-image-.td-pb-border-top.td_block_template_1:first-child > a.td_single_image_bg:first-child
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row > div.vc_column.tdi_112.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_114.td_block_template_1:nth-child(3)
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row > div.vc_column.tdi_81.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_86.td_block_template_1:nth-child(5) > div:last-child > a.td_spot_img_all > img
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row > div.vc_column.tdi_81.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_87.td_block_template_1:nth-child(6) > div:last-child > a.td_spot_img_all > img
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row.tdc-element-style > div.vc_column.tdi_65.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child
+zurnal.mk###tdi_75 > div.vc_row.tdi_76.wpb_row.td-pb-row > div.vc_column.tdi_81.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_83.vc_row.vc_inner.wpb_row.td-pb-row:nth-child(2) > div.vc_column_inner.tdi_85.wpb_column.vc_column_container.tdc-inner-column.td-pb-span12:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_86.td_block_template_1:first-child
+zurnal.mk###tdi_92 > div.vc_row.tdi_93.wpb_row.td-pb-row.tdc-row-content-vert-center > div.vc_column.tdi_95.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_97.vc_row.vc_inner.wpb_row.td-pb-row > div.vc_column_inner.tdi_108.wpb_column.vc_column_container.tdc-inner-column.td-pb-span3:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_single_image.td_block_wrap.td-no-img-custom-url.vc_single_image.tdi_109.td-single-image-.td-pb-border-top.td_block_template_1
+zurnal.mk##.monadplug-native-main-wrapper-13310-102810-104793-01653687669636.monadplug-native-main-wrapper
+||10bet.com
+||2mdn.net
+||a.kajgana.com
+||a.sitel.com.mk
+||a.skopjeinfo.mk
+||acadv.net
+||ad.mox.tv
+||adexchange.mk
+||adocean.pl
+||ads.1cm.com.mk
+||ads.24auto.mk
+||ads.24rakomet.mk
+||ads.360stepeni.mk
+||ads.365.mk
+||ads.avtoplus.mk
+||ads.biznisinfo.mk
+||ads.com.mk
+||ads.crnobelo.mk
+||ads.deca.mk
+||ads.ekipa.mk
+||ads.emedia.mk
+||ads.epp.mk
+||ads.exdynsrv.com
+||ads.faktor.mk
+||ads.fakulteti.mk
+||ads.fashionel.mk
+||ads.fokus.mk
+||ads.foxit.mk
+||ads.gol.mk
+||ads.grouper.mk
+||ads.idividi.com.mk
+||ads.it.mk
+||ads.kafepauza.mk
+||ads.kajgana.com
+||ads.kanal77.mk
+||ads.kumanovonews.com
+||ads.libertas.mk
+||ads.lokalno.mk
+||ads.makfudbal.mk
+||ads.mkd.mk
+||ads.mms.mk
+||ads.nexage.com
+||ads.novatv.mk
+||ads.pari.com.mk
+||ads.plusinfo.mk
+||ads.press24.mk
+||ads.programattik.com
+||ads.pubmatic.com
+||ads.ringaraja.net
+||ads.skopjeinfo.mk
+||ads.sport1.mk
+||ads.sportclub.mk
+||ads.sportm.mk
+||ads.sportmedia.mk
+||ads.stankov.me
+||ads.studenti.mk
+||ads.telma.com.mk
+||ads.tocka.com.mk
+||ads.trendolend.mk
+||ads.tv21.tv
+||ads.vrabotuvanje.com.mk
+||adsdms.mk
+||adserver.mk
+||adservice.google.com
+||adservice.google.mk
+||adspi.info
+||advertiseserve.com
+||adxbid.info
+||adxpremium.services
+||amazon-adsystem.com
+||aplikacii.com
+||baneri.24fudbal.com.mk
+||bet365affiliates.com
+||bttrack.com
+||c.adskeeper.co.uk
+||cdn.adskeeper.co.uk
+||certify-js.alexametrics.com
+||certify.alexametrics.com
+||clevernt.com
+||clickattack.mk
+||cm.adskeeper.co.uk
+||coinmedia.tk
+||d.agkn.com
+||doubleclick.net
+||ds-aksb-a.akamaihd.net
+||eadsrv.com
+||easyads.bg
+||easyplatform.com
+||gads.pubmatic.com
+||gamk.hit.gemius.pl
+||googlesyndication.com
+||hipersushiads.com
+||httpool.com
+||ib.adnxs.com
+||ireklama.mk
+||jsc.adskeeper.co.uk
+||keepaneye.mk
+||keepaneyeadmk.hit.gemius.pl
+||keepaneyegdemk.hit.gemius.pl
+||lacmus.mk
+||linker.mk^
+||live.acads.net
+||load77.exelator.com
+||loadm.exelator.com
+||marketgid.com
+||marketing.centar.com.mk
+||marketing.utrinskivesnik.mk
+||mas.nth.ch
+||match.adsrvr.org
+||mgid.com
+||midas-network.com
+||mobi-promo.com
+||monadplug.com
+||mozzart.ideaplus.mk
+||n.ads-adnow.com
+||n.ads1-adnow.com
+||n.ads2-adnow.com
+||n.ads3-adnow.com
+||n.ads4-adnow.com
+||n.ads5-adnow.com
+||nativemedia.rs
+||net-ads.mk
+||onesignal.com
+||pixel.onaudience.com
+||pixel.quantserve.com
+||pubpress.net
+||r.denar.mk
+||reklami.24fudbal.mk
+||reklami.daily.mk
+||reklami.gbccom.com.mk
+||reklami.ohridpress.com.mk
+||rev.balkanmediagroup.com
+||revcontent.com
+||revive.futura.net.mk
+||rtb.mfadsrvr.com
+||s-img.adskeeper.co.uk
+||s.pubmine.com
+||s1.adform.net
+||s2blosh.com
+||sa.daily.mk
+||samorakomet.mk/wp-content/uploads/2021/03/1160x120*.jpg$image
+||samorakomet.mk/wp-content/uploads/2021/03/header_oil1*.jpg$image
+||samorakomet.mk/wp-content/uploads/2021/03/header_oil1-768x346.jpg$domain=samorakomet.mk
+||samorakomet.mk/wp-content/uploads/2021/03/pakomak_desk.jpg$domain=samorakomet.mk
+||samorakomet.mk/wp-content/uploads/2021/03/sensitive-webbanner-300x800px.png$domain=samorakomet.mk
+||samorakomet.mk/wp-content/uploads/2021/03/sensitive-webbanner-800x200px.png$domain=samorakomet.mk
+||samorakomet.mk/wp-content/uploads/2021/03/vertikalen-384x1024.jpg$domain=samorakomet.mk
+||samorakomet.mk/wp-content/uploads/2021/03/vertikalen.jpg$domain=samorakomet.mk
+||script.dotmetrics.net
+||servicer.adskeeper.co.uk
+||serving-sys.com
+||skopskoeho.mk/wp-content/uploads/2022/01/ttv_mk_dec_2021_300x250-1.jpg$image
+||skopskoeho.mk/wp-content/uploads/2022/05/TTV_50_mkd_300x600*.jpg$image
+||smartadserver.com
+||sportmedia.mk/wp-content/uploads/2022/04/alkaloid-min-151.jpg$domain=sportmedia.mk
+||sportski.mk/wp-content/uploads/2022/02/1366x768-1.png
+||st-n.ads1-adnow.com
+||st-n.ads2-adnow.com
+||st-n.ads3-adnow.com
+||st-n.ads4-adnow.com
+||st-n.ads5-adnow.com
+||st-n.gsasd.info
+||static-doubleclick-net.l.google.com
+||static.365.mk/bekutan.jpg
+||static.off.mk
+||storygize.net
+||supersport.mk/wp-content/uploads/2022/02/1920x1080-1.png$domain=supersport.mk
+||taboola.com
+||tags.bluekai.com
+||toboads.com
+||track.adform.net
+||tv21macedonia.xyz
+||vdads2019.com
+||vionservices.com
+||vmads.eu
+||www.bid.aero
+||x.bidswitch.net
