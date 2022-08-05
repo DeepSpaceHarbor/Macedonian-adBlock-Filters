@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 23 November 2021
+! Last update: 5 August 2022
 ! Issue tracker: https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/issues
 
 ! Breaks maxim.mk if enabled
@@ -710,3 +710,18 @@ zk.mk##.maincontainer > .olamazi > .justcontent > .ishome_true.static_detect.con
 ||vionservices.com^
 ||bid.aero^
 ||x.bidswitch.net^
+alsat.mk##.theiaStickySidebar
+tera.mk##div.active.owl-item > .carousel-slider__item
+tera.mk##.wp-block-carousel-slider-slider
+tera.mk##.owl-stage
+tera.mk##.py-0.my-0.block-commercial
+republika.mk##.block__advertising-content
+||republika.mk/banners/*$image
+republika.mk##.sidebar-inner
+hitportal.com.mk##.textwidget
+hitportal.com.mk##.td-a-rec-id-content_top.td-a-rec
+hitportal.com.mk##.td-a-rec-id-content_bottom.td-a-rec
+bitolanews.mk##.size-full.attachment-full
+bitolanews.mk##.ngg-fancybox
+bitolanews.mk##.size-full.alignnone
+alsat.mk##[href^="https://linker.mk/link.php"]
