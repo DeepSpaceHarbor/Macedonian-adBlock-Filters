@@ -766,9 +766,6 @@ grid.mk###gestureZone > div.row:nth-child(3) > aside.sidebar-left:first-child > 
 hashtag.mk###fblikebg
 hashtag.mk###fblikepop
 hashtag.mk##.widget, .widget_media_image
-hitportal.com.mk###td-outer-wrap > div.td-outer-container > div.td-container.td-post-template-default:nth-child(2) > div.td-container-border > div.td-pb-row > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar
-hitportal.com.mk###tdi_42_70d > div.vc_row.tdi_43_009.wpb_row.td-pb-row > div.vc_column.tdi_51_610.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.wpb_wrapper.td_block_wrap.vc_widget_sidebar.tdi_53_ddd
-hitportal.com.mk##.td-a-rec, .td-a-rec-id-content_top, .tdi_35_dd6, .td_block_template_1
 https://ads.ekipa.mk/www/images/847e05cdbdd6ab5b56b1d2251deff85e.jpg$domain=ekipa.mk
 https://adserver.mk
 https://hybrid.mk/wp-content/uploads/2022/01/Sinalco-das-original-728x90-Hybread.gif$domain=hybrid.mk
