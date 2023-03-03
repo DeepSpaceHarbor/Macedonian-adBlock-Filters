@@ -1,11 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 5 August 2022
+! Last update: 3 March 2023
 ! Issue tracker: https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/issues
-
-! Breaks maxim.mk if enabled
-!||a.press24.mk^
 
 ###kae_unique_id_0
 ##.adsbygoogle
@@ -725,3 +722,5 @@ bitolanews.mk##.size-full.attachment-full
 bitolanews.mk##.ngg-fancybox
 bitolanews.mk##.size-full.alignnone
 alsat.mk##[href^="https://linker.mk/link.php"]
+||a.kajgana.com/*.$image
+kajgana.com##[href^="https://a.kajgana.com/www/delivery/ck.php"]
