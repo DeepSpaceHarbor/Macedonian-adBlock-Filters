@@ -737,3 +737,5 @@ hitportal.com.mk##.textwidget > a[target="_BLANK"] > img
 republika.mk,hitportal.com.mk##p > a[target="_BLANK"] > img
 ||republika.mk/banners/
 republika.mk##.monadplug-native-grid-wrapper
+stream.mk#@#.ad-placement
+stream.mk#$##ablockercheck { display: block !important; }
