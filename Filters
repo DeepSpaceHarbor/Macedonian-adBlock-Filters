@@ -724,3 +724,7 @@ bitolanews.mk##.size-full.alignnone
 alsat.mk##[href^="https://linker.mk/link.php"]
 ||a.kajgana.com/*.$image
 kajgana.com##[href^="https://a.kajgana.com/www/delivery/ck.php"]
+bitolanews.mk##.sidebar > div.inner > section.widget_media_image
+bitolanews.mk##.sidebar > div.inner > section.widget_slideshow
+bitolanews.mk##.widget-area-above-main
+bitolanews.mk##.clever-core-ads
