@@ -733,3 +733,7 @@ fokus.mk,alsat.mk##div[data-advadstrackid]
 ||tagx.bambarmedia.com/
 tera.mk##.block-commercial
 tera.mk##.carousel-slider-outer-image-carousel
+hitportal.com.mk##.textwidget > a[target="_BLANK"] > img
+republika.mk,hitportal.com.mk##p > a[target="_BLANK"] > img
+||republika.mk/banners/
+republika.mk##.monadplug-native-grid-wrapper
