@@ -731,3 +731,5 @@ bitolanews.mk##.clever-core-ads
 fokus.mk,alsat.mk##div[data-advadstrackid]
 ||adserver.piksel.mk/
 ||tagx.bambarmedia.com/
+tera.mk##.block-commercial
+tera.mk##.carousel-slider-outer-image-carousel
