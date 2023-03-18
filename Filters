@@ -728,3 +728,6 @@ bitolanews.mk##.sidebar > div.inner > section.widget_media_image
 bitolanews.mk##.sidebar > div.inner > section.widget_slideshow
 bitolanews.mk##.widget-area-above-main
 bitolanews.mk##.clever-core-ads
+fokus.mk,alsat.mk##div[data-advadstrackid]
+||adserver.piksel.mk/
+||tagx.bambarmedia.com/
