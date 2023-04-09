@@ -100,7 +100,7 @@ istokpress.mk##.wpb_wrapper > .td-a-rec-id-sidebar.td-a-rec
 it.mk###posledni-novosti > .alt.container > .row > .col-xs-12:nth-of-type(2) > .block-grid-md-4.block-grid-sm-2.block-grid-xs-1 > .block-grid-item:nth-of-type(4) > .main300 > ins > iframe
 it.mk###posledni-novosti > .alt.container > .row > .text-center.col-xs-12 > .main728 > ins > iframe
 javascript:"<html><body style='background:transparent'></body></html>"$domain=plusinfo.mk
-javascript:"<html><body style='background:transparent'></body></html>"$domain=www.pazar3.mk
+javascript:"<html><body style='background:transparent'></body></html>"$domain=pazar3.mk
 javascript:$domain=mkd-news.com
 jugoinfo.mk###animation_container
 jugoinfo.mk##div.reklama2
@@ -277,7 +277,6 @@ tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap 
 tera.mk###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-no-pagination.column_container.span12 > .td-page-text-content > .row-fluid.wpb_row > .column_container.wpb_column.span4 > .wpb_wrapper > .wpb_content_element.wpb_text_column:nth-of-type(6)
 tera.mk##.td-a-rec-id-header.td-a-rec
 time.mk###adpos_branding
-||time.mk/ads/$image
 tirekovmirece.com###ads_region3
 tirekovmirece.com##.container > .row > .col-md-8.col-xs-12 > .main.row > .col-xs-12:nth-of-type(1)
 tocka.com.mk###td_body_levo > table:nth-of-type(5) > tbody > tr > td:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
@@ -299,122 +298,122 @@ vecer.mk###close-btn[href="javascript:window.history.back()"]
 weather4all.com.mk###article > p:nth-of-type(21)
 weather4all.com.mk###article > p:nth-of-type(31)
 webtv.vip.mk##.well > p:nth-of-type(2)
-www.aberdzija.com###bdv_DSK_top1
-www.aberdzija.com###bdvifrmloc1789583
-www.aberdzija.com###component > div:nth-of-type(1)
-www.aberdzija.com###gk-highlighter
-www.aberdzija.com###gk-main > .cbottom.cleft.ctop.inner > .clearfix.gk-mass-top.gk-mass
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletable:nth-of-type(7)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(1)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(11)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(12)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(13)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(14)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(3)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(5)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(6)
-www.aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(8)
-www.akademik.mk##.main-wrapper > .sidebar-inside > .singlesid.sidebar > .sidebar-ad:nth-of-type(5) > embed
-www.alsat-m.tv##.ad350x300:nth-of-type(1)
-www.alsat-m.tv##.ad350x300:nth-of-type(3)
-www.biznisvesti.mk###text-30
-www.biznisvesti.mk###text-32
-www.biznisvesti.mk###text-69 > .widget-container
-www.brif.mk###banner-5
-www.brif.mk##.banner-image
-www.carclub.mk###header-banner
-www.carclub.mk###main > div:nth-of-type(1) > iframe
-www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://malikovski.com"]
-www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.lagermax.mk"]
-www.carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.sportinn.mk"]
-www.carclub.mk###sidebar > .widget:nth-of-type(6)
-www.crnobelo.com###col-right > .moduletable-sidebar-a
-www.dokaz.mk###sidebar > .widget:nth-of-type(4) > .ads728x90-thumb
-www.dokazm.mk###text-2
-www.exclusive.mk##.adwidget
-www.exclusive.mk##.clearfix.post-wrapper > .dolg_bn_g
-www.exclusive.mk##.clearfix.sidebar > div:nth-of-type(1)
-www.fakulteti.mk###aspnetForm > .clearfix.page-shadow > .clearfix.wrapper > .clearfix.main-content > .sidebar > .f-banner:nth-of-type(1)
-www.fakulteti.mk###swiffycontainer > div
-www.femina.mk###floater > a[href^="http://ads.ereklama.mk/www/delivery/ck.php"]
-www.femina.mk###ja-masscol > .sublogin > .m-bottom
-www.femina.mk###ja-masscol > .sublogin > .m-content
-www.femina.mk###ja-masscol > .sublogin > .m-top
-www.kavadar4e.com###topwrap
-www.koli.com.mk###form1 > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(5) > td:nth-of-type(2) > table:nth-of-type(1) > tbody > .txt_11_siv > .pading_novi_naslovna
-www.koli.com.mk###form1 > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(5) > td:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(3) > td
-www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .content > .wrapper > .big-sidebar-right.main-content-wrapper > .main-content > .mob.def-panel:nth-of-type(1) > .shortocde-content.panel-content > div:nth-of-type(3)
-www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .footer > .wrapper > div
-www.libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .header > .wrapper > .header-block > .header-banner
-www.libertas.mk###main210d31973a
-www.libertas.mk###sidebar
-www.libertas.mk##.shortocde-content.panel-content > div:nth-of-type(4)
-www.macedoniasky.mk###home-left > ul > .home-widget:nth-of-type(1)
-www.macedoniasky.mk###leader-wrapper
-www.macedoniasky.mk###sidebar-wrapper > ul
-www.mkd.mk###mini-panel-sidebar_top > .region-one-main.region > .clearfix.region-inner > .panel-pane-odd.pane-mkd-ads-250x208-3.pane-block.panel-pane
-www.mkd.mk###mini-panel-sidebar_top > .region-one-main.region > .clearfix.region-inner > .panel-pane-odd.responsive.pane-mkd-ads-250x208-1.pane-block.panel-pane
-www.mobile24.mk###main-wrapper > .content:nth-of-type(3)
-www.mobile24.mk###main-wrapper > .content:nth-of-type(4)
-www.navalica.com###ads300_600-widget-2 > .widget-container
-www.ohridnews.com###main > aside
-www.pazar3.mk###div-gpt-ad-1396109584850-0
-www.pazar3.mk###div-gpt-ad-1396109584850-1
-www.pazar3.mk###div-gpt-ad-1396109584850-2
-www.pazar3.mk###div-gpt-ad-1396109584850-4
-www.pazar3.mk###div-gpt-ad-1396109584850-5
-www.pazar3.mk###div-gpt-ad-1396109584850-6
-www.pazar3.mk###div-gpt-ad-1396109584850-7
-www.pazar3.mk###div-gpt-ad-1396109584850-8
-www.pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Bottom_Leaderboard_0__container__
-www.pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Leaderboard_0__container__
-www.pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Small_Rectangle_0__container__
-www.pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Small_Skyscraper_0
-www.pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Vertical_0__container__
-www.pazar3.mk###google_ads_iframe_\/77487658\/Right_Side_0__container__
-www.pozitivo.net###ads300_250-widget-10
-www.pozitivo.net###ads300_250-widget-2
-www.pozitivo.net###ads300_250-widget-3
-www.pozitivo.net###ads300_250-widget-4
-www.pozitivo.net###ads300_250-widget-9
-www.pozitivo.net###cornerpeel-bg
-www.pozitivo.net###cornerpeel-peel
-www.pozitivo.net###cornerpeel-peel-cover
-www.pozitivo.net###cornerpeel-tiny
-www.pozitivo.net###main-content > .content > .e3lan-post.e3lan
-www.pozitivo.net###popuppress-12795 > .pps-wrap > .pps-content
-www.pozitivo.net###theme-header > .header-content > .e3lan-top.e3lan
-www.pozitivo.net###wrapper > .inner-wrapper > .e3lan-bottom.e3lan
-www.pravdiko.mk###leftContent > .group.post > div:nth-of-type(3)
-www.pravdiko.mk###leftContent > .group.post > div:nth-of-type(4)
-www.pravdiko.mk###main > .clearfix:nth-of-type(1) > .ad_position5_1_post
-www.pravdiko.mk###main > .clearfix:nth-of-type(1) > .ad_position5_post
-www.pravdiko.mk###main > .clearfix:nth-of-type(1) > .widget:nth-of-type(11)
-www.press24.mk###block-block-25
-www.radiofortuna.com.mk###equal_col_left > .col-module-style2.col-module:nth-of-type(4)
-www.radiomk.com###ads-menu
-www.radiomk.com###reklami
-www.radiomk.com###text-6 > .textwidget
-www.radiomof.mk###text-12
-www.radiomof.mk###text-4
-www.radiomof.mk###text-5
-www.radiomof.mk##.main-wrap > .logos
-www.sky.mk###articlepxfontsize1 > div:nth-of-type(5)
-www.sky.mk###hstp_5650_interstitial_div
-www.sky.mk###Mod462 > .module-inner
-www.srekja.mk###aswift_0
-www.srekja.mk###kae_unique_id_0_parent_div
-www.srekja.mk###sidebar > .clearfix.widget_text.sidebar-box:nth-of-type(2) > .textwidget > p:nth-of-type(1)
-www.srekja.mk###sidebar > .clearfix.widget_text.sidebar-box:nth-of-type(2) > .textwidget > p:nth-of-type(2)
-www.telegraf.mk###content > .cf.fl.main-content > .cf.mb.single-post > .cf.mb.post-content > .cf.mb.content-banner
-www.telegraf.mk###content > .cf.fl.mb.sidebar > .cf.widget:nth-of-type(1) > .textwidget
-www.telegraf.mk###content > .cf.fl.mb.sidebar > .widget-aktuelno.widget:nth-of-type(1) > .textwidget
-www.telegraf.mk###content > .cf.fl.mb.sidebar > .widget-aktuelno.widget:nth-of-type(4)
-www.telegraf.mk###content > .cf.fl.sidebar:nth-of-type(5) > .cf.widget:nth-of-type(1)
-www.time.mk###adpos1
-www.time.mk###ads_pane
-www.vipmarket5.mk###topBanner[href="http://olimpiko.com.mk/"]
-www.vrabotuvanje.com.mk###formAll > .global > .content > .side > .sideBanner
+aberdzija.com###bdv_DSK_top1
+aberdzija.com###bdvifrmloc1789583
+aberdzija.com###component > div:nth-of-type(1)
+aberdzija.com###gk-highlighter
+aberdzija.com###gk-main > .cbottom.cleft.ctop.inner > .clearfix.gk-mass-top.gk-mass
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletable:nth-of-type(7)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(1)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(11)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(12)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(13)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(14)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(3)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(5)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(6)
+aberdzija.com###gk-right > .clearfix.gk-mass-top.gk-mass > .moduletabledark:nth-of-type(8)
+akademik.mk##.main-wrapper > .sidebar-inside > .singlesid.sidebar > .sidebar-ad:nth-of-type(5) > embed
+alsat-m.tv##.ad350x300:nth-of-type(1)
+alsat-m.tv##.ad350x300:nth-of-type(3)
+biznisvesti.mk###text-30
+biznisvesti.mk###text-32
+biznisvesti.mk###text-69 > .widget-container
+brif.mk###banner-5
+brif.mk##.banner-image
+carclub.mk###header-banner
+carclub.mk###main > div:nth-of-type(1) > iframe
+carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://malikovski.com"]
+carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.lagermax.mk"]
+carclub.mk###sidebar > .widget:nth-of-type(4) > .textwidget > a[href="http://www.sportinn.mk"]
+carclub.mk###sidebar > .widget:nth-of-type(6)
+crnobelo.com###col-right > .moduletable-sidebar-a
+dokaz.mk###sidebar > .widget:nth-of-type(4) > .ads728x90-thumb
+dokazm.mk###text-2
+exclusive.mk##.adwidget
+exclusive.mk##.clearfix.post-wrapper > .dolg_bn_g
+exclusive.mk##.clearfix.sidebar > div:nth-of-type(1)
+fakulteti.mk###aspnetForm > .clearfix.page-shadow > .clearfix.wrapper > .clearfix.main-content > .sidebar > .f-banner:nth-of-type(1)
+fakulteti.mk###swiffycontainer > div
+femina.mk###floater > a[href^="http://ads.ereklama.mk/www/delivery/ck.php"]
+femina.mk###ja-masscol > .sublogin > .m-bottom
+femina.mk###ja-masscol > .sublogin > .m-content
+femina.mk###ja-masscol > .sublogin > .m-top
+kavadar4e.com###topwrap
+koli.com.mk###form1 > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(5) > td:nth-of-type(2) > table:nth-of-type(1) > tbody > .txt_11_siv > .pading_novi_naslovna
+koli.com.mk###form1 > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(5) > td:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(3) > td
+libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .content > .wrapper > .big-sidebar-right.main-content-wrapper > .main-content > .mob.def-panel:nth-of-type(1) > .shortocde-content.panel-content > div:nth-of-type(3)
+libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .footer > .wrapper > div
+libertas.mk###dat-menu > .dat-menu-container > .dat-menu-padding.dat-menu-wrapper > .boxed > .header > .wrapper > .header-block > .header-banner
+libertas.mk###main210d31973a
+libertas.mk###sidebar
+libertas.mk##.shortocde-content.panel-content > div:nth-of-type(4)
+macedoniasky.mk###home-left > ul > .home-widget:nth-of-type(1)
+macedoniasky.mk###leader-wrapper
+macedoniasky.mk###sidebar-wrapper > ul
+mkd.mk###mini-panel-sidebar_top > .region-one-main.region > .clearfix.region-inner > .panel-pane-odd.pane-mkd-ads-250x208-3.pane-block.panel-pane
+mkd.mk###mini-panel-sidebar_top > .region-one-main.region > .clearfix.region-inner > .panel-pane-odd.responsive.pane-mkd-ads-250x208-1.pane-block.panel-pane
+mobile24.mk###main-wrapper > .content:nth-of-type(3)
+mobile24.mk###main-wrapper > .content:nth-of-type(4)
+navalica.com###ads300_600-widget-2 > .widget-container
+ohridnews.com###main > aside
+pazar3.mk###div-gpt-ad-1396109584850-0
+pazar3.mk###div-gpt-ad-1396109584850-1
+pazar3.mk###div-gpt-ad-1396109584850-2
+pazar3.mk###div-gpt-ad-1396109584850-4
+pazar3.mk###div-gpt-ad-1396109584850-5
+pazar3.mk###div-gpt-ad-1396109584850-6
+pazar3.mk###div-gpt-ad-1396109584850-7
+pazar3.mk###div-gpt-ad-1396109584850-8
+pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Bottom_Leaderboard_0__container__
+pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Leaderboard_0__container__
+pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Small_Rectangle_0__container__
+pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Small_Skyscraper_0
+pazar3.mk###google_ads_iframe_\/77487658\/Pazar3\.mk_Vertical_0__container__
+pazar3.mk###google_ads_iframe_\/77487658\/Right_Side_0__container__
+pozitivo.net###ads300_250-widget-10
+pozitivo.net###ads300_250-widget-2
+pozitivo.net###ads300_250-widget-3
+pozitivo.net###ads300_250-widget-4
+pozitivo.net###ads300_250-widget-9
+pozitivo.net###cornerpeel-bg
+pozitivo.net###cornerpeel-peel
+pozitivo.net###cornerpeel-peel-cover
+pozitivo.net###cornerpeel-tiny
+pozitivo.net###main-content > .content > .e3lan-post.e3lan
+pozitivo.net###popuppress-12795 > .pps-wrap > .pps-content
+pozitivo.net###theme-header > .header-content > .e3lan-top.e3lan
+pozitivo.net###wrapper > .inner-wrapper > .e3lan-bottom.e3lan
+pravdiko.mk###leftContent > .group.post > div:nth-of-type(3)
+pravdiko.mk###leftContent > .group.post > div:nth-of-type(4)
+pravdiko.mk###main > .clearfix:nth-of-type(1) > .ad_position5_1_post
+pravdiko.mk###main > .clearfix:nth-of-type(1) > .ad_position5_post
+pravdiko.mk###main > .clearfix:nth-of-type(1) > .widget:nth-of-type(11)
+press24.mk###block-block-25
+radiofortuna.com.mk###equal_col_left > .col-module-style2.col-module:nth-of-type(4)
+radiomk.com###ads-menu
+radiomk.com###reklami
+radiomk.com###text-6 > .textwidget
+radiomof.mk###text-12
+radiomof.mk###text-4
+radiomof.mk###text-5
+radiomof.mk##.main-wrap > .logos
+sky.mk###articlepxfontsize1 > div:nth-of-type(5)
+sky.mk###hstp_5650_interstitial_div
+sky.mk###Mod462 > .module-inner
+srekja.mk###aswift_0
+srekja.mk###kae_unique_id_0_parent_div
+srekja.mk###sidebar > .clearfix.widget_text.sidebar-box:nth-of-type(2) > .textwidget > p:nth-of-type(1)
+srekja.mk###sidebar > .clearfix.widget_text.sidebar-box:nth-of-type(2) > .textwidget > p:nth-of-type(2)
+telegraf.mk###content > .cf.fl.main-content > .cf.mb.single-post > .cf.mb.post-content > .cf.mb.content-banner
+telegraf.mk###content > .cf.fl.mb.sidebar > .cf.widget:nth-of-type(1) > .textwidget
+telegraf.mk###content > .cf.fl.mb.sidebar > .widget-aktuelno.widget:nth-of-type(1) > .textwidget
+telegraf.mk###content > .cf.fl.mb.sidebar > .widget-aktuelno.widget:nth-of-type(4)
+telegraf.mk###content > .cf.fl.sidebar:nth-of-type(5) > .cf.widget:nth-of-type(1)
+time.mk###adpos1
+time.mk###ads_pane
+vipmarket5.mk###topBanner[href="http://olimpiko.com.mk/"]
+vrabotuvanje.com.mk###formAll > .global > .content > .side > .sideBanner
 zase.mk###div-gpt-ad-1416060558272-2
 zase.mk###div-gpt-ad-1416060558272-3
 zase.mk###div-gpt-ad-1426343616905-0
@@ -532,7 +531,7 @@ zk.mk##.maincontainer > .olamazi > .justcontent > .ishome_true.static_detect.con
 ||tera.mk/wp-content/uploads/2016/07/13695099_1253805737965440_1652189031_n.jpg$image
 ||tera.mk/wp-content/uploads/2016/11/logo.png$image
 ||tera.mk/wp-content/uploads/2016/11/logo_faktor.png$image
-||time.mk/ads/$subdocument
+||time.mk/ads/
 ||time.mk/widget/$subdocument
 ||tzm.mk/upload/PixelBanner/
 ||vesti.mk/banner/
@@ -574,7 +573,6 @@ zk.mk##.maincontainer > .olamazi > .justcontent > .ishome_true.static_detect.con
 ||www.pazar3.mk/wgdata/$subdocument
 ||www.pozitivo.net/wp-content/plugins/cornerpeel/peel.png
 ||www.srekja.mk/wp-content/uploads/2015/11/Lapaj-Logo-srekja-300x250.jpg
-||www.time.mk/ads/
 ||www.tripadvisor.com/WidgetEmbed-cdsgeohighlights
 ||www.vipmarket5.mk/themes/airlija/images/banners/
 ||www.vipponuda.com/aBans/*
@@ -713,7 +711,6 @@ tera.mk##.wp-block-carousel-slider-slider
 tera.mk##.owl-stage
 tera.mk##.py-0.my-0.block-commercial
 republika.mk##.block__advertising-content
-||republika.mk/banners/*$image
 republika.mk##.sidebar-inner
 hitportal.com.mk##.textwidget
 hitportal.com.mk##.td-a-rec-id-content_top.td-a-rec
