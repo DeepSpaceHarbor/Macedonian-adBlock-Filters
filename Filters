@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 24 March 2023
+! Last update: 9 April 2023
 ! Issue tracker: https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/issues
 
 ###kae_unique_id_0
@@ -744,3 +744,4 @@ sportski.mk#$#body { background-image: none !important; }
 sportski.mk###icegram_messages_container
 ||free.xjs.lol^
 fokus.mk##.elementor-widget-sidebar
+republika.mk##[title^="Sponzorirano"]
