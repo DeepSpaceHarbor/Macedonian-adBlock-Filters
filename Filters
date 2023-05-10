@@ -742,6 +742,6 @@ sportski.mk###icegram_messages_container
 ||free.xjs.lol^
 fokus.mk##.elementor-widget-sidebar
 republika.mk##[title^="Sponzorirano"]
-gorivo.mk##.jss12
+||images.gorivo.mk/000web/
 24.mk##[href^="ad.php"]
 24.mk##div.text-center.widget > .img-fluid.banner
