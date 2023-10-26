@@ -748,8 +748,4 @@ republika.mk##[title^="Sponzorirano"]
 stanica.mk##.header-html-inner
 stanica.mk##.sidebar-inner-wrap
 stanica.mk##.a-single
-stanica.mk##figure.size-full.wp-block-image
 stanica.mk##.gofollow
-stanica.mk##.lazyloaded.ls-is-cached.aligncenter
-stanica.mk##.size-full.aligncenter
-stanica.mk##.size-large.aligncenter
