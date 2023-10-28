@@ -20,7 +20,7 @@ Search for Macedonian AdBlock filters and enable them.
 ![](https://user-images.githubusercontent.com/11393457/235373676-c223c583-3e62-4e47-ae18-81631b2c9cbd.png)
 
 <details>
-  <summary> <h1>🠻 Начин на користење со uBlock Origin<h1/></summary>
+  <summary> <h1> ⇣ Начин на користење со uBlock Origin<h1/></summary>
 Отвори го менито со подесувања
 
 ![](https://user-images.githubusercontent.com/11393457/222749232-5a001cfe-4d28-423d-9ae8-24795bc47651.png)
@@ -31,7 +31,7 @@ Search for Macedonian AdBlock filters and enable them.
 </details>
 
 <details>
-  <summary> <h1>🠻 Начин на користење со AdGuard<h1/></summary>
+  <summary> <h1> ⇣ Начин на користење со AdGuard<h1/></summary>
 Отвори го менито со подесувања, и влези во секцијата Filters.
 
 ![](https://user-images.githubusercontent.com/11393457/235373636-272d52af-dcbe-4049-a66e-82390c538e5d.png)
