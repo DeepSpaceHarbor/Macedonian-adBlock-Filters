@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 26 October 2023
+! Last update: 17 March 2024
 ! Issue tracker: https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/issues
 
 ###kae_unique_id_0
@@ -749,3 +749,8 @@ stanica.mk##.header-html-inner
 stanica.mk##.sidebar-inner-wrap
 stanica.mk##.a-single
 stanica.mk##.gofollow
+sdk.mk##.custom-position.fixed.active.pum-position-fixed.size-custom.theme-211946.popmake.pum-container
+24.mk##[href^="/ad.php"]
+##[href^="https://d.linker.mk/link"]
+||tera.mk/wp-content/uploads/2023/06/Baner_300-x-250-1.gif$image
+www.ohridnews.com##.after-nav-ad.container
