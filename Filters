@@ -1,12 +1,11 @@
 [uBlock Origin]
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day
-! Last update: 06 Aug 2026
+! Last update: 19 Sep 2026
 ! Issue tracker: https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/issues
 
 ###kae_unique_id_0
 ##.adsbygoogle
-! TIME.mk source-site audit — 06 Aug 2026
 ||ads.avtoplus.mk^
 ||ads.konzoto.com^
 ||ads.sportm.mk^
