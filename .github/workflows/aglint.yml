@@ -1,0 +1,26 @@
+name: Validate filters
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  aglint:
+    name: uBlock Origin filters
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out filters
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+
+      - name: Validate uBlock Origin filters
+        run: bash scripts/check-filters.sh
